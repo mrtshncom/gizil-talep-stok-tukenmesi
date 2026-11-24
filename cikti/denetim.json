@@ -1,0 +1,75 @@
+{
+ "anlam_ayni_gun": {
+  "satis_gunu_n": 77131,
+  "tam_eslesme": 0.9731755066056449,
+  "satissiz_gun_n": 9220278,
+  "satissiz_degismez": 0.9957185672709652
+ },
+ "anlam_onceki_gun": {
+  "satis_gunu_n": 88376,
+  "tam_eslesme": 0.030392866841676473,
+  "satissiz_gun_n": 9209033,
+  "satissiz_degismez": 0.9880015632477374
+ },
+ "kayit_bitis": {
+  "biten": 38267,
+  "acik": 22701,
+  "son1_n": 28263,
+  "son1_ertesi_satis": 0.7395888617627286,
+  "son0_n": 5622,
+  "son0_ertesi_satis": 0.0010672358591248667
+ },
+ "kayitsiz_satis": {
+  "toplam_birim": 124542.0,
+  "kayit_hic_yok_seri": 2588,
+  "kayit_hic_yok_birim": 2733.0,
+  "ilk_oncesi_birim": 970.0,
+  "ic_bosluk_gun": 299671,
+  "ic_bosluk_birim": 6863.0,
+  "bitis_ertesi_birim": 23747.0,
+  "etkin_sonrasi_birim": 859.0
+ },
+ "anlam_ortuk_sifir": {
+  "satis_gunu_n": 107425,
+  "tam_eslesme": 0.9751826855946009
+ },
+ "kalite": {
+  "etkin_gun": 9704922,
+  "etkin_seri": 60968,
+  "etkin_birim": 119980.0,
+  "ortuk_sifir_gun": 337938,
+  "negatif_stok_gun": 53166,
+  "negatif_stok_seri": 977,
+  "aciklanamayan_azalis_gun": 23329,
+  "satis_gunu": 113793,
+  "pozitif_giris_gun": 37643
+ },
+ "CR1": {
+  "gun": 9704922,
+  "sansurlu_gun": 1185667,
+  "oran": 0.12217171863926367,
+  "satis_gunu_sansurlu": 0.34885274138128003,
+  "birim_sansurlu": 0.35537588596343994,
+  "seri_sansur_orani_medyan": 0.009259259259259259
+ },
+ "CR2": {
+  "gun": 9704922,
+  "sansurlu_gun": 4882582,
+  "oran": 0.5031036828528864,
+  "satis_gunu_sansurlu": 0.6595660541509584,
+  "birim_sansurlu": 0.6605350971221924,
+  "seri_sansur_orani_medyan": 0.6069953953069511
+ },
+ "CR3": {
+  "gun": 9313818,
+  "sansurlu_gun": 794563,
+  "oran": 0.08531012738277687,
+  "satis_gunu_sansurlu": 0.12417110908854505,
+  "birim_sansurlu": 0.12537741661071777,
+  "seri_sansur_orani_medyan": 0.0
+ },
+ "tukenme_gunu": {
+  "satisla_tukenen": 39697,
+  "tum_gun_stoksuz": 1145970
+ }
+}

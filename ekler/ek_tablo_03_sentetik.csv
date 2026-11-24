@@ -1,0 +1,18 @@
+﻿Sınama,Gösterge,Değer,Kıyas veya yorum
+Kimlik,Ürün adı ile ürün numarası eşleşmesi,"%0,0",Adlar numaradan türetilmemiştir
+Kimlik,Ürün adı ile segment eşleşmesi,"%100,0",Adlar segment düzeyinde kodlanmıştır
+Kimlik,Ürün adlarını oluşturan farklı sözcük,55,Kodlanmış sözlük
+İade,Önceki satışı bulunan iade payı,"%90,6","Plasebo ortalaması %61,6, en büyüğü %62,8"
+İade,İade gecikmesi medyanı (gün),2,"Plasebo ortalaması 40,5"
+İade,30 gün içinde iade payı,"%83,4","Plasebo ortalaması %25,8, p = 0,005"
+Takvim,Cumartesi / pazartesi satış oranı,"2,51",Haftalık alışveriş döngüsü
+Takvim,24.12.2025 / aynı gün ortalaması,"7,67",Yılbaşı öncesi sıçrama
+Takvim,28.11.2025 / aynı gün ortalaması,"2,61",Kasım indirim günü
+Takvim,14.02.2026 / aynı gün ortalaması,"2,06",Sevgililer Günü
+Fiyat,",00 ve ,99 ile biten fiyat payı","%61,9 ve %33,7",Psikolojik fiyatlama
+Dağılım,En çok satan %10 stok biriminin birim payı,"%35,5",Çarpık satış dağılımı
+Dağılım,Birden fazla birim satılan gün payı,"%3,8","Seyrek, düşük hacimli talep"
+Operasyon,Stok girişlerinin gün dağılımı (χ²),1376,"p < 0,001"
+Operasyon,Mağaza başına en yoğun giriş günü payı (medyan),"%19,8","Plasebo en büyüğü %16,3, p = 0,005"
+Operasyon,Tam fiyat / maliyet oranı (medyan),"1,98","Satışların %41,2 kadarı 2 ± 0,05 aralığında"
+Tutarlılık,Stok düşüşü = aynı gün net satış,"%97,3",Tablolar arası işlem bağı

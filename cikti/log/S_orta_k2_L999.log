@@ -1,0 +1,9 @@
+analiz/deney.py:48: RuntimeWarning: All-NaN slice encountered
+  S = np.nanmedian(pos, axis=1)
+analiz/modeller.py:464: RuntimeWarning: overflow encountered in expm1
+  h = (Q * (UG[None, :] / np.maximum(np.expm1(UG[None, :] * Sm[:, None]), 1e-300))).sum(1)
+M4 sure 290.8 phi 1.378 tur 200 ab 0.0 0.0
+M4S sure 151.3 phi 0.7986 tur 200 ab 0.0 0.0
+TB sure 141.7 phi 1.513 tur 200 ab 0.0 0.0
+TK sure 57.6 phi 1.1747 tur 200 ab 0.0 0.0
+S_orta 2 seri 14044 sansur 0.0963 kayip_pay 0.1326 sure 757.3 {'M0': (-0.1326, 0.1326), 'M1': (-0.0399, 0.1276), 'M2': (0.0281, 0.1529), 'M3': (0.8815, 0.991), 'M5': (0.0935, 0.2029), 'M6': (0.0177, 0.1562), 'M4': (-0.0276, 0.1271), 'M4S': (-0.1326, 0.1326), 'TB': (-0.0179, 0.0982), 'TK': (-0.1326, 0.1326)}

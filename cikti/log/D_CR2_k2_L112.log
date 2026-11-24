@@ -1,0 +1,6 @@
+analiz/modeller.py:464: RuntimeWarning: overflow encountered in expm1
+  h = (Q * (UG[None, :] / np.maximum(np.expm1(UG[None, :] * Sm[:, None]), 1e-300))).sum(1)
+M4 sure 279.7 phi 15.1656 tur 200 ab 0.0 0.0
+M4D sure 156.7 phi 17.1308 tur 100 ab 0.0 0.0
+M4S sure 122.4 phi 1.2362 tur 200 ab 0.0 0.0
+D_CR2 2 seri 12066 sansur 0.377 kayip_pay 0.0 sure 641.5 {'M0': (0.0, 0.0), 'M1': (0.2599, 0.2599), 'M2': (0.5421, 0.5421), 'M3': (28.5005, 28.5005), 'M5': (1.1717, 1.1717), 'M6': (0.5301, 0.5301), 'M4': (0.9339, 0.9339), 'M4D': (1.1829, 1.1829), 'M4S': (0.0, 0.0)}

@@ -1,0 +1,2241 @@
+{
+ "tarih": "2026-11-24",
+ "arayuz": "https://api.crossref.org/works",
+ "filtre": "until-pub-date:2026-10-31",
+ "ilk_n": 50,
+ "sorgular": [
+  {
+   "sorgu": "censored demand estimation lost sales retail",
+   "toplam": 983397,
+   "incelenen": 50,
+   "tur": {
+    "report": 1,
+    "posted-content": 18,
+    "dataset": 1,
+    "other": 1,
+    "book-chapter": 5,
+    "proceedings-article": 2,
+    "journal-article": 22
+   },
+   "atif_yapilan_eslesme": [
+    "agrawal96",
+    "mersereau15",
+    "nahmias94"
+   ],
+   "kayitlar": [
+    {
+     "doi": "10.2139/ssrn.1334353",
+     "baslik": "Multivariate Customer Demand: Modeling and Estimation from Censored Sales"
+    },
+    {
+     "doi": "10.2139/ssrn.2700491",
+     "baslik": "Nonparametric Algorithms for Joint Pricing and Inventory Control with Lost-Sales and Censored Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.2836057",
+     "baslik": "Nonparametric Learning Algorithms for Joint Pricing and Inventory Control with Lost-Sales and Censored Demand"
+    },
+    {
+     "doi": "10.1145/3292040.3219624",
+     "baslik": "Censored Demand Estimation in Retail"
+    },
+    {
+     "doi": "10.1145/3219617.3219624",
+     "baslik": "Censored Demand Estimation in Retail"
+    },
+    {
+     "doi": "10.1002/1520-6750(199410)41:6<739::aid-nav3220410605>3.0.co;2-a",
+     "baslik": "Demand estimation in lost sales inventory systems"
+    },
+    {
+     "doi": "10.1145/3154489",
+     "baslik": "Censored Demand Estimation in Retail"
+    },
+    {
+     "doi": "10.1002/(sici)1520-6750(199609)43:6<839::aid-nav4>3.0.co;2-5",
+     "baslik": "Estimating negative binomial demand for retail inventory management with unobservable lost sales"
+    },
+    {
+     "doi": "10.1287/moor.2020.1084",
+     "baslik": "Nonparametric Learning Algorithms for Joint Pricing and Inventory Control with Lost Sales and Censored Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.3404163",
+     "baslik": "A Nonparametric Approach to Estimating Heterogeneous Demand from Censored Sales Panel Data"
+    },
+    {
+     "doi": "10.2139/ssrn.1850525",
+     "baslik": "Censored Demand System Estimation with Endogenous Expenditures in Clustered Samples: An Application to Food Demand in Mozambique"
+    },
+    {
+     "doi": "10.32614/cran.package.censoredaids",
+     "baslik": "censoredAIDS: Estimation of Censored AI/QUAI Demand System via Maximum Likelihood Estimation (MLE)"
+    },
+    {
+     "doi": "10.1287/moor.1080.0367",
+     "baslik": "An Adaptive Algorithm for Finding the Optimal Base-Stock Policy in Lost Sales Inventory Systems with Censored Demand"
+    },
+    {
+     "doi": "10.31224/5367",
+     "baslik": "Enhancing Retail Sales Forecasting Using Exponential Factorization Machines: A Data-Driven Approach to Demand Prediction"
+    },
+    {
+     "doi": "10.1017/age.2016.24",
+     "baslik": "Super-premium Fruit and Vegetable Beverages: A Retail Sales Analysis and Demand Estimation"
+    },
+    {
+     "doi": "10.1007/978-1-4757-3729-5_4",
+     "baslik": "Estimation of a Censored Demand System"
+    },
+    {
+     "doi": "10.2139/ssrn.3399925",
+     "baslik": "Nonparametric Estimation of Customer Segments from Censored Sales Panel Data"
+    },
+    {
+     "doi": "10.2139/ssrn.5262585",
+     "baslik": "Enhancing Unconstrained Demand Forecasting Using Temporal Hierarchies in Lost-Sales Inventory Systems"
+    },
+    {
+     "doi": "10.2139/ssrn.4617835",
+     "baslik": "A Burning Issue: Wildfire Smoke Exposure, Retail Sales, and Demand for Adaptation in Healthcare"
+    },
+    {
+     "doi": "10.2139/ssrn.1126044",
+     "baslik": "Optimality of State-Dependent (s, S) Policies in Inventory Models with Markov-Modulated Demand and Lost Sales"
+    },
+    {
+     "doi": "10.2139/ssrn.4854218",
+     "baslik": "Managing Inventory for Spare Parts with Lost Sales and Compound Poisson Demand Process"
+    },
+    {
+     "doi": "10.2139/ssrn.6555439",
+     "baslik": "Algorithmic Noise in Retail Search: How Irrelevant Results Bias Demand Estimation and Inventory Decisions"
+    },
+    {
+     "doi": "10.2139/ssrn.4053920",
+     "baslik": "Consumer Food Demand Shifts in the COVID-19 Pandemic: An Empirical Study Based on Retail Sales Data"
+    },
+    {
+     "doi": "10.3386/w32435",
+     "baslik": "Demand For E-Cigarettes Based On Nicotine Strength: Evidence From Retail Sales"
+    },
+    {
+     "doi": "10.1080/00036840210125008",
+     "baslik": "Household demand for fats and oils: two-step estimation of a censored demand system"
+    },
+    {
+     "doi": "10.1109/ais69919.2026.11621469",
+     "baslik": "A Generative AI-Based Framework for Retail Sales Forecasting and Demand Prediction"
+    },
+    {
+     "doi": "10.1007/978-1-4899-7562-1_5",
+     "baslik": "Analytics for Operational Visibility in the Retail Store: The Cases of Censored Demand and Inventory Record Inaccuracy"
+    },
+    {
+     "doi": "10.2139/ssrn.3746492",
+     "baslik": "Demand Estimation under the Multinomial Logit Model from Sales Transaction Data - APPENDIX B"
+    },
+    {
+     "doi": "10.1016/j.annals.2022.103428",
+     "baslik": "‘Modelling’ UK tourism demand using fashion retail sales"
+    },
+    {
+     "doi": "10.2139/ssrn.4826042",
+     "baslik": "Demand For E-Cigarettes Based On Nicotine Strength: Evidence From Retail Sales"
+    },
+    {
+     "doi": "10.17256/jer.2014.19.3.004",
+     "baslik": "Estimation of passenger car demand under the censored Tobit model with latent floating thresholds"
+    },
+    {
+     "doi": "10.3138/9781487542733-014",
+     "baslik": "CHAPTER TWELVE Censored Demand Estimation of Choice Models for Omnichannel Pricing"
+    },
+    {
+     "doi": "10.58225/tim.2026-2-211-217",
+     "baslik": "DEMAND FORECASTING IN RETAIL SALES: ANALYSIS OF MACHINE LEARNING MODELS ON THE BLACK FRIDAY DATASET"
+    },
+    {
+     "doi": "10.1016/j.omega.2020.102253",
+     "baslik": "Strategic credit sales to express retail under asymmetric default risk and stochastic market demand"
+    },
+    {
+     "doi": "10.3390/math10173179",
+     "baslik": "Dynamic Model Selection Based on Demand Pattern Classification in Retail Sales Forecasting"
+    },
+    {
+     "doi": "10.2139/ssrn.3979077",
+     "baslik": "Incorporating Search and Sales Information in Demand Estimation"
+    },
+    {
+     "doi": "10.15662/ijfist.2022.0504003",
+     "baslik": "Predictive Detection of Lost Sales Opportunities Using Inventory Signal Prioritization in Omnichannel Retail Systems"
+    },
+    {
+     "doi": "10.2139/ssrn.5368371",
+     "baslik": "Robust Base-Stock Policies under Demand Ambiguity for Lost-Sales Systems with Lead Times"
+    },
+    {
+     "doi": "10.1007/978-3-658-02314-0_5",
+     "baslik": "Local Variance Estimation for Censored Observations"
+    },
+    {
+     "doi": "10.1287/mnsc.2020.3667",
+     "baslik": "Demand Modeling in the Presence of Unobserved Lost Sales"
+    },
+    {
+     "doi": "10.1093/ajae/aar059",
+     "baslik": "Bayesian Estimation of a Censored Linear Almost Ideal Demand System: Food Demand in Pakistan"
+    },
+    {
+     "doi": "10.15680/ijctece.2022.0504009",
+     "baslik": "Predictive Detection of Lost Sales Opportunities Using Inventory Signal Prioritization in Omnichannel Retail Systems"
+    },
+    {
+     "doi": "10.1287/msom.2015.0520",
+     "baslik": "Demand Estimation from Censored Observations with Inventory Record Inaccuracy"
+    },
+    {
+     "doi": "10.1155/2019/7219326",
+     "baslik": "Estimation of Jointly Normally Distributed Demand for Cross‐Selling Items in Inventory Systems with Lost Sales"
+    },
+    {
+     "doi": "10.2139/ssrn.4878355",
+     "baslik": "Demand Estimation in Retail Supply Chains: A Data-Driven Approach Capturing Customer Behavior Insights During Out-of-Stock Events"
+    },
+    {
+     "doi": "10.2139/ssrn.3598259",
+     "baslik": "Robust Demand Estimation with Customer Choice-Based Models for Sales Transaction Data"
+    },
+    {
+     "doi": "10.1002/for.70039",
+     "baslik": "Enhancing Demand Forecasting in Retail: A Comprehensive Analysis of Sales Promotional Effects on the Entire Demand Life Cycle"
+    },
+    {
+     "doi": "10.1007/978-3-319-13305-8_4",
+     "baslik": "The Data-Driven Newsvendor with Censored Demand Observations"
+    },
+    {
+     "doi": "10.1016/j.orl.2010.03.006",
+     "baslik": "A two-demand-class inventory system with lost-sales and backorders"
+    },
+    {
+     "doi": "10.1002/9781394167524.ch9",
+     "baslik": "Sales Demand Forecasting for Retail Marketing Using XGBoost Algorithm"
+    }
+   ]
+  },
+  {
+   "sorgu": "stockout demand estimation sales data",
+   "toplam": 3612662,
+   "incelenen": 50,
+   "tur": {
+    "report": 3,
+    "posted-content": 22,
+    "reference-book": 1,
+    "book-chapter": 5,
+    "proceedings-article": 2,
+    "journal-article": 17
+   },
+   "atif_yapilan_eslesme": [
+    "conrad76",
+    "nahmias94"
+   ],
+   "kayitlar": [
+    {
+     "doi": "10.2139/ssrn.4134738",
+     "baslik": "A Unified Parsimonious Model for Structural Demand Estimation Accounting for Stockout and Substitution"
+    },
+    {
+     "doi": "10.2139/ssrn.3746492",
+     "baslik": "Demand Estimation under the Multinomial Logit Model from Sales Transaction Data - APPENDIX B"
+    },
+    {
+     "doi": "10.2139/ssrn.7106418",
+     "baslik": "When Less Data Is Better: Eliminating Stockout-Induced Bias in Choice Estimation"
+    },
+    {
+     "doi": "10.2139/ssrn.3598259",
+     "baslik": "Robust Demand Estimation with Customer Choice-Based Models for Sales Transaction Data"
+    },
+    {
+     "doi": "10.2139/ssrn.1334353",
+     "baslik": "Multivariate Customer Demand: Modeling and Estimation from Censored Sales"
+    },
+    {
+     "doi": "10.2307/3009217",
+     "baslik": "Sales Data and the Estimation of Demand"
+    },
+    {
+     "doi": "10.4135/9781529793864",
+     "baslik": "Nintendo and COVID-19: From Stockout to Increasing Sales"
+    },
+    {
+     "doi": "10.1007/978-3-031-25456-7_6",
+     "baslik": "Demand estimation from sales transaction data: practical extensions"
+    },
+    {
+     "doi": "10.1057/jors.1976.13",
+     "baslik": "Sales Data and the Estimation of Demand"
+    },
+    {
+     "doi": "10.1057/s41272-021-00312-3",
+     "baslik": "Demand estimation from sales transaction data: practical extensions"
+    },
+    {
+     "doi": "10.2139/ssrn.3157345",
+     "baslik": "Dynamic Inventory Control with Stockout Substitution and Demand Learning"
+    },
+    {
+     "doi": "10.1287/msom.2020.0878",
+     "baslik": "Demand Estimation Under the Multinomial Logit Model from Sales Transaction Data"
+    },
+    {
+     "doi": "10.2139/ssrn.3979077",
+     "baslik": "Incorporating Search and Sales Information in Demand Estimation"
+    },
+    {
+     "doi": "10.2139/ssrn.7444520",
+     "baslik": "Bayesian Learning of Demand and Stockout-Based Substitution for Risk-Aware Inventory Optimization"
+    },
+    {
+     "doi": "10.2139/ssrn.3696682",
+     "baslik": "Estimating the Stockout-Based Demand Spillover Effect in a Fashion Retail Setting"
+    },
+    {
+     "doi": "10.2139/ssrn.289348",
+     "baslik": "Need for Speed: Demand Estimation Using Auction Data"
+    },
+    {
+     "doi": "10.2139/ssrn.6970299",
+     "baslik": "A Hierarchical Attention Architecture for Demand Forecasting with Sparse Sales Data in SMEs"
+    },
+    {
+     "doi": "10.2139/ssrn.3780420",
+     "baslik": "Forecasting Demand for New Products: Combining Subjective Rankings with Sales Data"
+    },
+    {
+     "doi": "10.2139/ssrn.6623578",
+     "baslik": "Working Paper: Measuring Assortment-Specific Unique-Demand Contributions from Assortment and Sales Data"
+    },
+    {
+     "doi": "10.1177/10591478241258197",
+     "baslik": "Robust Demand Estimation With Customer Choice-Based Models for Sales Transaction Data"
+    },
+    {
+     "doi": "10.31224/5367",
+     "baslik": "Enhancing Retail Sales Forecasting Using Exponential Factorization Machines: A Data-Driven Approach to Demand Prediction"
+    },
+    {
+     "doi": "10.2139/ssrn.3404163",
+     "baslik": "A Nonparametric Approach to Estimating Heterogeneous Demand from Censored Sales Panel Data"
+    },
+    {
+     "doi": "10.1002/1520-6750(199410)41:6<739::aid-nav3220410605>3.0.co;2-a",
+     "baslik": "Demand estimation in lost sales inventory systems"
+    },
+    {
+     "doi": "10.2139/ssrn.1923711",
+     "baslik": "Estimating Primary Demand for Substitutable Products from Sales Transaction Data"
+    },
+    {
+     "doi": "10.2139/ssrn.3214812",
+     "baslik": "Flexible Demand Estimation with Search Data"
+    },
+    {
+     "doi": "10.1109/smartindustrycon68821.2026.11492883",
+     "baslik": "Stockout-Aware Segmentation and Model Routing for Daily Store-SKU Demand Forecasting"
+    },
+    {
+     "doi": "10.1287/opre.20.4.903",
+     "baslik": "Technical Note—Fixed-Stockout-Probability Order Quantities with Lost Sales and Time Lag"
+    },
+    {
+     "doi": "10.2139/ssrn.4608817",
+     "baslik": "Demand Estimation with Text and Image Data"
+    },
+    {
+     "doi": "10.1287/mnsc.2019.3474",
+     "baslik": "Dynamic Inventory Control with Stockout Substitution and Demand Learning"
+    },
+    {
+     "doi": "10.46320/2077-7639-2022-1-110-40-50",
+     "baslik": "Digitalization of russian art sales data: the problem of supply-demand mismatch"
+    },
+    {
+     "doi": "10.3386/w31605",
+     "baslik": "Incorporating Micro Data into Differentiated Products Demand Estimation with PyBLP"
+    },
+    {
+     "doi": "10.2139/ssrn.4588941",
+     "baslik": "Demand Estimation with Text and Image Data"
+    },
+    {
+     "doi": "10.51903/jtie.v4i1.594",
+     "baslik": "Stockout-Aware Relational Demand Forecasting and Cross-Dataset Error Trade-offs"
+    },
+    {
+     "doi": "10.1108/eum0000000002964",
+     "baslik": "USING INTER‐BRANCH STOCK TRANSFERS TO MEET DEMAND DURING A\nSTOCKOUT"
+    },
+    {
+     "doi": "10.1920/wp.ifs.1996.9616",
+     "baslik": "Estimation of household demand systems using unit value data"
+    },
+    {
+     "doi": "10.37547/tajmei/volume07issue04-07",
+     "baslik": "Transformers in Data-Driven Decision-Making: Applications for Forecasting Sales, Analyzing Demand, and Optimizing Pricing Strategies"
+    },
+    {
+     "doi": "10.1007/978-3-662-11377-6_17",
+     "baslik": "A New Customer-Oriented Methodology to Evaluate Supply Chain Lost Sales Costs Due to Stockout in Consumer Goods Sectors"
+    },
+    {
+     "doi": "10.1504/ijaom.2017.089990",
+     "baslik": "Single-vendor multi-buyer vendor managed inventory with discrete demand and stockout"
+    },
+    {
+     "doi": "10.2139/ssrn.4553609",
+     "baslik": "Incorporating Micro Data into Differentiated Products Demand Estimation with Pyblp"
+    },
+    {
+     "doi": "10.1109/isda.2011.6121750",
+     "baslik": "Knowledge-based estimation of stockout costs in logistic systems"
+    },
+    {
+     "doi": "10.1287/opre.2015.1376",
+     "baslik": "Technical Note—Managing Nonperishable Inventories with Learning About Demand Arrival Rate Through Stockout Times"
+    },
+    {
+     "doi": "10.2139/ssrn.1514554",
+     "baslik": "The Price of Gasoline and the Demand for Fuel Economy: Evidence from Monthly New Vehicles Sales Data"
+    },
+    {
+     "doi": "10.1007/978-1-4419-0510-9_7",
+     "baslik": "Estimation of Theoretically Plausible Demand Functions from U.S. Consumer Expenditure Survey Data"
+    },
+    {
+     "doi": "10.2139/ssrn.4524615",
+     "baslik": "Estimating Stockout Costs and Optimal Stockout Rates: A Case on the Management of Ugly Produce Inventory"
+    },
+    {
+     "doi": "10.2139/ssrn.6780898",
+     "baslik": "Dynamic Spatial Panel Data Analysis of Inbound Accommodation Demand in Japan: Estimation and Forecasting"
+    },
+    {
+     "doi": "10.4135/9781452204444.n5",
+     "baslik": "Qualitative Sales Forecasting"
+    },
+    {
+     "doi": "10.4135/9781452204444.n6",
+     "baslik": "Sales Forecasting Systems"
+    },
+    {
+     "doi": "10.1287/inte.12.1.38",
+     "baslik": "The Estimation of Single Copy Newspaper Sales: A Tertiary Market Demand Model"
+    },
+    {
+     "doi": "10.3390/standards4020004",
+     "baslik": "Seasonal Data Cleaning for Sales with Chase Demand Strategy"
+    },
+    {
+     "doi": "10.65864/m8s1c4w5uy",
+     "baslik": "Demand Estimation with Text and Image Data"
+    }
+   ]
+  },
+  {
+   "sorgu": "inventory record inaccuracy demand estimation",
+   "toplam": 1146385,
+   "incelenen": 50,
+   "tur": {
+    "posted-content": 7,
+    "other": 2,
+    "book-chapter": 7,
+    "proceedings-article": 3,
+    "journal-article": 31
+   },
+   "atif_yapilan_eslesme": [
+    "chehrazi25",
+    "dehoratius08",
+    "mersereau15",
+    "nahmias94",
+    "shabani21"
+   ],
+   "kayitlar": [
+    {
+     "doi": "10.1287/msom.2015.0520",
+     "baslik": "Demand Estimation from Censored Observations with Inventory Record Inaccuracy"
+    },
+    {
+     "doi": "10.4324/9780080478449-7",
+     "baslik": "Structures to avoid inaccuracy"
+    },
+    {
+     "doi": "10.2139/ssrn.3637031",
+     "baslik": "Impacts of Inventory Record Inaccuracy on Retailers’ Internal Operations"
+    },
+    {
+     "doi": "10.2139/ssrn.4506042",
+     "baslik": "Inventory Systems with Record Inaccuracy: Transaction Errors vs Unobservable Loss"
+    },
+    {
+     "doi": "10.1016/b978-0-7506-5900-0.50006-0",
+     "baslik": "Structures to avoid inaccuracy"
+    },
+    {
+     "doi": "10.2139/ssrn.1960594",
+     "baslik": "Risk Aversion, Inspection Error, and Inventory Record Inaccuracy"
+    },
+    {
+     "doi": "10.1109/icieem.2010.5646398",
+     "baslik": "A robust (Q, r) inventory model regarding inaccuracy of point estimation of demand status"
+    },
+    {
+     "doi": "10.2139/ssrn.4253132",
+     "baslik": "Exact Characterization of the Jointly Optimal Restocking and Auditing Policy in Inventory Systems with Record Inaccuracy"
+    },
+    {
+     "doi": "10.1002/9780470400531.eorms0431",
+     "baslik": "Inventory Record Inaccuracy in Retail Supply Chains"
+    },
+    {
+     "doi": "10.1002/9780470400531.eorms0431.pub2",
+     "baslik": "Inventory Record Inaccuracy in Retail Supply Chains"
+    },
+    {
+     "doi": "10.1287/mnsc.1070.0789",
+     "baslik": "Inventory Record Inaccuracy: An Empirical Analysis"
+    },
+    {
+     "doi": "10.1007/978-3-642-19257-9_19",
+     "baslik": "Inventory Record Inaccuracy, RFID Technology Adoption and Supply Chain Coordination"
+    },
+    {
+     "doi": "10.1007/978-1-4899-7562-1_5",
+     "baslik": "Analytics for Operational Visibility in the Retail Store: The Cases of Censored Demand and Inventory Record Inaccuracy"
+    },
+    {
+     "doi": "10.2139/ssrn.6912659",
+     "baslik": "Inventory Record Inaccuracy In Grocery Retailing: Impact Of Promotions And Product Perishability, And Targeted Effect Of Audits"
+    },
+    {
+     "doi": "10.1111/j.1937-5956.2007.tb00279.x",
+     "baslik": "Inventory Record Inaccuracy, Double Marginalization, and RFID Adoption"
+    },
+    {
+     "doi": "10.1016/j.omega.2016.06.009",
+     "baslik": "Inventory record inaccuracy – The impact of structural complexity and lead time variability"
+    },
+    {
+     "doi": "10.47191/ijcsrr/v8-i1-26",
+     "baslik": "Quantitative Analysis of Inventory Record Inaccuracy (IRI): A Case Study on Warehouse Stock Discrepancies"
+    },
+    {
+     "doi": "10.1287/msom.2023.0274",
+     "baslik": "Inventory Systems with Record Inaccuracy: Transaction Errors vs. Unobservable Loss"
+    },
+    {
+     "doi": "10.1007/s00291-026-00848-z",
+     "baslik": "Using internet-of-things point-of-consumption data for smart replenishment under inventory record inaccuracy"
+    },
+    {
+     "doi": "10.1007/s00170-015-7433-3",
+     "baslik": "Inventory record inaccuracy due to theft in production-inventory systems"
+    },
+    {
+     "doi": "10.1504/ijir.2010.031462",
+     "baslik": "An analysis of the effect of inventory record inaccuracy in a two-echelon supply chain"
+    },
+    {
+     "doi": "10.1016/j.jom.2015.07.006",
+     "baslik": "Inventory record inaccuracy: Causes and labor effects"
+    },
+    {
+     "doi": "10.1016/j.ijpe.2021.108111",
+     "baslik": "Inventory record inaccuracy and store-level performance"
+    },
+    {
+     "doi": "10.1590/0103-6513.20220077",
+     "baslik": "The impacts of inventory record inaccuracy and cycle counting on distribution center performance"
+    },
+    {
+     "doi": "10.1016/j.jom.2018.09.003",
+     "baslik": "Inventory record inaccuracy dynamics and the role of employees within multi‐channel distribution center inventory systems"
+    },
+    {
+     "doi": "10.5220/0005632303430348",
+     "baslik": "Bayesian Inventory Planning with Imperfect Demand Estimation in Online Flash Sale"
+    },
+    {
+     "doi": "10.1016/j.jom.2016.01.002",
+     "baslik": "Erratum to ‘Inventory record inaccuracy: Causes and labor effects’"
+    },
+    {
+     "doi": "10.1108/ijpdlm-09-2013-0240",
+     "baslik": "Inventory record inaccuracy in supply chains: the role of workers’ behavior"
+    },
+    {
+     "doi": "10.1111/deci.12564",
+     "baslik": "Ordering decisions under supply uncertainty and inventory record inaccuracy: An experimental investigation"
+    },
+    {
+     "doi": "10.1287/msom.1060.0136",
+     "baslik": "Inspection and Replenishment Policies for Systems with Inventory Record Inaccuracy"
+    },
+    {
+     "doi": "10.1287/moor.2022.0145",
+     "baslik": "Exact Characterization of the Jointly Optimal Restocking and Auditing Policy in Inventory Systems with Record Inaccuracy"
+    },
+    {
+     "doi": "10.5013/ijssst.a.17.23.08",
+     "baslik": "An Inventory Control Policy Under Inventory Inaccuracy"
+    },
+    {
+     "doi": "10.2139/ssrn.4275704",
+     "baslik": "How Supply Chain Complexity Drives Inventory Record Inaccuracy: Empirical Evidence from Cross-border E-commerce"
+    },
+    {
+     "doi": "10.1007/978-0-85729-039-7_1",
+     "baslik": "Intermittent Demand: Estimation and Statistical Properties"
+    },
+    {
+     "doi": "10.1016/j.ejor.2024.09.033",
+     "baslik": "Dynamic reordering and inspection for the multi-item Inventory Record Inaccuracy problem"
+    },
+    {
+     "doi": "10.2139/ssrn.5679182",
+     "baslik": "Sample Complexity of Inventory Control with Setup Costs Beyond Plug-in Demand Estimation"
+    },
+    {
+     "doi": "10.14488/enegep2022_ti_pts_392_1944_45239",
+     "baslik": "The Impacts of Inventory Record Inaccuracy and Cycle Counting on Distribution Centers Performance"
+    },
+    {
+     "doi": "10.2139/ssrn.6555439",
+     "baslik": "Algorithmic Noise in Retail Search: How Irrelevant Results Bias Demand Estimation and Inventory Decisions"
+    },
+    {
+     "doi": "10.1111/poms.12010",
+     "baslik": "RFID‐Enabled Visibility and Retail Inventory Record Inaccuracy: Experiments in the Field"
+    },
+    {
+     "doi": "10.1016/b978-1-85573-241-4.50004-x",
+     "baslik": "Demand forecasting and inventory control"
+    },
+    {
+     "doi": "10.1111/jbl.12019",
+     "baslik": "Investigating the Effects of Daily Inventory Record Inaccuracy in Multichannel Retailing"
+    },
+    {
+     "doi": "10.24014/jti.v12i2.40100",
+     "baslik": "&lt;b&gt;Development of a Movement-Triggered Inventory Checking Method for Earlier Detection of Inventory Record Inaccuracy&lt;/b&gt;"
+    },
+    {
+     "doi": "10.55730/1300-0632.3977",
+     "baslik": "Variational autoencoder-based anomaly detection in time series data for inventory record inaccuracy"
+    },
+    {
+     "doi": "10.1002/j.2158-1592.2010.tb00132.x",
+     "baslik": "THE IMPACT OF POINT‐OF‐SALE DATA INACCURACY AND INVENTORY RECORD DATA ERRORS"
+    },
+    {
+     "doi": "10.1016/j.jom.2016.01.001",
+     "baslik": "Erratum to “Inventory record inaccuracy: Causes and labor effects” [J. Oper. Manag. 39–40 (2015) 63–78]"
+    },
+    {
+     "doi": "10.1111/jbl.70079",
+     "baslik": "Inventory Record Inaccuracy in Grocery Retailing: Impact of Promotions and Product Perishability, and Targeted Effect of Audits"
+    },
+    {
+     "doi": "10.1007/978-3-319-11976-2_1",
+     "baslik": "Demand Forecasting for Inventory Control"
+    },
+    {
+     "doi": "10.1016/j.jclepro.2016.11.081",
+     "baslik": "Investigation of RFID investment in a single retailer two-supplier supply chain with random demand to decrease inventory inaccuracy"
+    },
+    {
+     "doi": "10.1016/j.ejor.2014.11.021",
+     "baslik": "The effect of Inventory Record Inaccuracy in Information Exchange Supply Chains"
+    },
+    {
+     "doi": "10.1002/1520-6750(199410)41:6<739::aid-nav3220410605>3.0.co;2-a",
+     "baslik": "Demand estimation in lost sales inventory systems"
+    }
+   ]
+  },
+  {
+   "sorgu": "newsvendor censored demand",
+   "toplam": 182458,
+   "incelenen": 50,
+   "tur": {
+    "posted-content": 24,
+    "book-chapter": 2,
+    "proceedings-article": 1,
+    "journal-article": 23
+   },
+   "atif_yapilan_eslesme": [
+    "sachs14"
+   ],
+   "kayitlar": [
+    {
+     "doi": "10.2139/ssrn.5519298",
+     "baslik": "Learning When to Restart: Nonstationary Newsvendor from Uncensored to Censored Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.2528884",
+     "baslik": "On Learning Process of a Newsvendor with Censored Demand Information"
+    },
+    {
+     "doi": "10.2139/ssrn.7594440",
+     "baslik": "Optimal Feature-Based Newsvendor Policies under Censored Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.4862686",
+     "baslik": "Bridging Uncertainty: A Data-Driven Dro Approach for Correcting Censored Demand in Newsvendor Problems"
+    },
+    {
+     "doi": "10.1016/j.ijpe.2013.04.039",
+     "baslik": "The data-driven newsvendor with censored demand observations"
+    },
+    {
+     "doi": "10.1016/j.omega.2024.103273",
+     "baslik": "Using an iterative procedure of maximum likelihood estimations to solve the newsvendor problem with censored demand"
+    },
+    {
+     "doi": "10.1287/msom.1110.0340",
+     "baslik": "A Censored-Data Multiperiod Inventory Problem with Newsvendor Demand Distributions"
+    },
+    {
+     "doi": "10.1016/j.ejor.2024.10.045",
+     "baslik": "Data-driven ordering policies for target oriented newsvendor with censored demand"
+    },
+    {
+     "doi": "10.46254/j.ieom.20190103",
+     "baslik": "A Game Theoretic Approach to Multi-Period Newsvendor Problems with Censored Markovian Demand"
+    },
+    {
+     "doi": "10.32920/24058725",
+     "baslik": "Newsvendor model with Brownian motion demand"
+    },
+    {
+     "doi": "10.32920/24058725.v1",
+     "baslik": "Newsvendor model with Brownian motion demand"
+    },
+    {
+     "doi": "10.1016/j.ijpe.2025.109626",
+     "baslik": "Bridging uncertainty: A data-driven DRO approach for correcting censored demand in newsvendor problems"
+    },
+    {
+     "doi": "10.1007/978-3-319-13305-8_4",
+     "baslik": "The Data-Driven Newsvendor with Censored Demand Observations"
+    },
+    {
+     "doi": "10.1057/jors.2016.18",
+     "baslik": "On learning process of a newsvendor with censored demand information"
+    },
+    {
+     "doi": "10.2139/ssrn.6244838",
+     "baslik": "What is the Value of Censored Data? An Exact Analysis for the Data-driven Newsvendor"
+    },
+    {
+     "doi": "10.2139/ssrn.1983270",
+     "baslik": "On Implications of Demand Censoring in the Newsvendor Problem"
+    },
+    {
+     "doi": "10.2139/ssrn.1523303",
+     "baslik": "The Newsvendor Problem with a General Price Dependent Demand Distribution"
+    },
+    {
+     "doi": "10.2139/ssrn.1523262",
+     "baslik": "An Empirical Study on Demand Models for a Price-Setting Newsvendor"
+    },
+    {
+     "doi": "10.2139/ssrn.3461096",
+     "baslik": "On Demand Uncertainty in the Newsvendor Model"
+    },
+    {
+     "doi": "10.2139/ssrn.1021241",
+     "baslik": "An Elasticity Perspective to the Newsvendor with Price Sensitive Demand"
+    },
+    {
+     "doi": "10.32920/ryerson.14662443",
+     "baslik": "Two-price policy for a newsvendor product supply chain with time and price sensitive demand"
+    },
+    {
+     "doi": "10.32920/ryerson.14662443.v1",
+     "baslik": "Two-price policy for a newsvendor product supply chain with time and price sensitive demand"
+    },
+    {
+     "doi": "10.2139/ssrn.1699751",
+     "baslik": "Observation Bias: The Impact of Demand Censoring on Newsvendor Level and Adjustment Behavior"
+    },
+    {
+     "doi": "10.1080/0740817x.2014.904974",
+     "baslik": "A non-parametric adaptive algorithm for the censored newsvendor problem"
+    },
+    {
+     "doi": "10.1002/nav.20224",
+     "baslik": "Dynamic learning, pricing, and ordering by a censored newsvendor"
+    },
+    {
+     "doi": "10.1287/opre.50.3.517.7752",
+     "baslik": "The Censored Newsvendor and the Optimal Acquisition of Information"
+    },
+    {
+     "doi": "10.2139/ssrn.4108017",
+     "baslik": "Dynamic Ordering and Buyer Selection Policies in a Newsvendor Setting with Service-Dependent Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.5197050",
+     "baslik": "Multi-product Newsvendor with Submodular Demand Restrictions"
+    },
+    {
+     "doi": "10.2139/ssrn.6217298",
+     "baslik": "Optimal Procurement of Newsvendor Facing Correlated Supply and Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.5397642",
+     "baslik": "A Probabilistic and Adaptive Strategy for the Newsvendor Problem with Periodic Demand"
+    },
+    {
+     "doi": "10.1287/opre.1050.0251",
+     "baslik": "On “The Censored Newsvendor and the Optimal Acquisition of Information”"
+    },
+    {
+     "doi": "10.3934/jimo.2009.5.391",
+     "baslik": "Censored newsvendor model revisited  with unnormalized probabilities"
+    },
+    {
+     "doi": "10.2139/ssrn.1334353",
+     "baslik": "Multivariate Customer Demand: Modeling and Estimation from Censored Sales"
+    },
+    {
+     "doi": "10.2139/ssrn.1850525",
+     "baslik": "Censored Demand System Estimation with Endogenous Expenditures in Clustered Samples: An Application to Food Demand in Mozambique"
+    },
+    {
+     "doi": "10.1016/j.econlet.2019.108746",
+     "baslik": "On demand uncertainty in the newsvendor model"
+    },
+    {
+     "doi": "10.1109/chicc.2016.7553773",
+     "baslik": "Flexile ordering policy of two-stage newsvendor model with demand updating under demand uncertainty"
+    },
+    {
+     "doi": "10.2139/ssrn.983353",
+     "baslik": "The Forecasting Newsvendor: Benefits of Improved Demand Forecasts When Acquisition Costs are Increasing"
+    },
+    {
+     "doi": "10.2139/ssrn.6441983",
+     "baslik": "Dynamic Wholesale Pricing under Censored-Demand Learning"
+    },
+    {
+     "doi": "10.1007/978-3-642-14553-7_23",
+     "baslik": "Online Algorithms for the Newsvendor Problem with and without Censored Demands"
+    },
+    {
+     "doi": "10.2139/ssrn.3578532",
+     "baslik": "Regret in the Newsvendor Model with Demand and Yield Randomness"
+    },
+    {
+     "doi": "10.4028/www.scientific.net/amm.397-400.2595",
+     "baslik": "The Effects of Demand Randomness in Newsvendor Model"
+    },
+    {
+     "doi": "10.1016/j.proeng.2011.08.223",
+     "baslik": "Sensitivity Analysis for Newsvendor Model with General Advertisement-Sensitive Demand"
+    },
+    {
+     "doi": "10.1111/deci.12187",
+     "baslik": "Newsvendor Problems with Demand Shocks and Unknown Demand Distributions"
+    },
+    {
+     "doi": "10.2139/ssrn.2388229",
+     "baslik": "The Newsvendor Under Demand Ambiguity: Combining Data with Moment and Tail Information"
+    },
+    {
+     "doi": "10.1287/opre.1080.0609",
+     "baslik": "Technical Note—A Note on “The Censored Newsvendor and the Optimal Acquisition of Information”"
+    },
+    {
+     "doi": "10.2139/ssrn.7712138",
+     "baslik": "Demand And Welfare Effects Of Taxing Products With Added Sugar In Iran: A Censored Quadratic Almost Ideal Demand System Approach"
+    },
+    {
+     "doi": "10.1287/mnsc.1120.1617",
+     "baslik": "Newsvendor Demand Chasing Revisited"
+    },
+    {
+     "doi": "10.2139/ssrn.3803777",
+     "baslik": "Feature-Based Inventory Control with Censored Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.1375227",
+     "baslik": "Coping with Demand Shocks: A Distribution-Free Algorithm for Solving Newsvendor Problems with Limited Demand Information"
+    },
+    {
+     "doi": "10.2139/ssrn.7618200",
+     "baslik": "Minimax Learning for Contextual Pricing and Inventory Control under Censored Demand"
+    }
+   ]
+  },
+  {
+   "sorgu": "intermittent demand forecasting retail",
+   "toplam": 456174,
+   "incelenen": 50,
+   "tur": {
+    "report": 1,
+    "posted-content": 9,
+    "other": 19,
+    "book-chapter": 5,
+    "monograph": 1,
+    "journal-article": 15
+   },
+   "atif_yapilan_eslesme": [],
+   "kayitlar": [
+    {
+     "doi": "10.1002/9781119135289.ch15",
+     "baslik": "Software for Intermittent Demand"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch6",
+     "baslik": "Forecasting Mean Demand"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch7",
+     "baslik": "Forecasting the Variance of Demand and Forecast Error"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch4",
+     "baslik": "Demand Distributions"
+    },
+    {
+     "doi": "10.1007/978-3-658-14062-5_3",
+     "baslik": "Demand Analysis and Forecasting"
+    },
+    {
+     "doi": "10.32710/tekstilvekonfeksiyon.809867",
+     "baslik": "Machine Learning Algorithms with Intermittent Demand Forecasting: An Application in Retail Apparel with Plenty of Predictors"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch5",
+     "baslik": "Compound Demand Distributions"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch2",
+     "baslik": "Inventory Management and Forecasting"
+    },
+    {
+     "doi": "10.1002/9781119135289.fmatter",
+     "baslik": "Front Matter"
+    },
+    {
+     "doi": "10.14327/iscm.19.51",
+     "baslik": "A Study on SKU-Level Intermittent Demand Forecasting Methods in the Apparel Retail Industry Using Wavelet Analysis"
+    },
+    {
+     "doi": "10.1002/9781119135289.refs",
+     "baslik": "References"
+    },
+    {
+     "doi": "10.2139/ssrn.5981034",
+     "baslik": "Counterfactual Demand Forecasting for Retail Promotions Using Bayesian Causal Forests"
+    },
+    {
+     "doi": "10.1016/j.procs.2024.08.239",
+     "baslik": "An ES-based model with contemporaneous and temporal aggregation for forecasting intermittent and lumpy retail demand"
+    },
+    {
+     "doi": "10.2139/ssrn.6070089",
+     "baslik": "Impact of AI-Driven Demand Forecasting on Retail Inventory Efficiency"
+    },
+    {
+     "doi": "10.3390/forecast8040056",
+     "baslik": "Forecasting Intermittent Sales in Fashion Retail: A Two-Stage Machine Learning Approach"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch8",
+     "baslik": "Inventory Settings"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch11",
+     "baslik": "Classification Methods"
+    },
+    {
+     "doi": "10.1002/9781119135289",
+     "baslik": "Intermittent Demand Forecasting"
+    },
+    {
+     "doi": "10.1002/9781119135289.indauth",
+     "baslik": "Author Index"
+    },
+    {
+     "doi": "10.1002/9781119135289.indsub",
+     "baslik": "Subject Index"
+    },
+    {
+     "doi": "10.3390/forecast4020031",
+     "baslik": "Deep Learning for Demand Forecasting in the Fashion and Apparel Retail Industry"
+    },
+    {
+     "doi": "10.1201/9781003399599-12",
+     "baslik": "Count data and intermittent demand"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch12",
+     "baslik": "Maintenance and Obsolescence"
+    },
+    {
+     "doi": "10.58806/ijiissh.2026.v3i3n01",
+     "baslik": "Enhancing Inventory Planning in Retail SMES through Data‑Driven Demand Forecasting"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch14",
+     "baslik": "Model‐based Methods"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch13",
+     "baslik": "Non‐parametric Methods"
+    },
+    {
+     "doi": "10.3390/forecast8050096",
+     "baslik": "Kolmogorov–Arnold Networks for Daily Apparel Retail Demand Forecasting: A Comparative Evaluation Across Forecasting Models"
+    },
+    {
+     "doi": "10.2139/ssrn.6680400",
+     "baslik": "Does the Forecaster Matter? A Systematic Evaluation of Demand Forecasting and Inventory Control Policies Across Retail Demand Regimes"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch3",
+     "baslik": "Service Level Measures"
+    },
+    {
+     "doi": "10.1080/00207543.2018.1431413",
+     "baslik": "Forecasting replenishment orders in retail: value of modelling low and intermittent consumer demand with distributions"
+    },
+    {
+     "doi": "10.2139/ssrn.6733258",
+     "baslik": "AI-based Demand Forecasting in Retail Stores using Data Analysis"
+    },
+    {
+     "doi": "10.1002/for.2575",
+     "baslik": "Intermittent demand forecasting in the Enterprise: Empirical verification"
+    },
+    {
+     "doi": "10.7763/ijtef.2011.v2.95",
+     "baslik": "An ANN Approach to Demand Forecasting in Retail Trade in Bangladesh"
+    },
+    {
+     "doi": "10.3390/forecast8030037",
+     "baslik": "Hybrid Clustering for Retail Demand Forecasting: Combining Rule-Based and Machine Learning Methods"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch9",
+     "baslik": "Accuracy and Its Implications"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch1",
+     "baslik": "Economic and Environmental Context"
+    },
+    {
+     "doi": "10.1007/978-0-85729-039-7_2",
+     "baslik": "Distributional Assumptions for Parametric Forecasting of Intermittent Demand"
+    },
+    {
+     "doi": "10.2139/ssrn.6763260",
+     "baslik": "Enhancing Demand Forecasting Accuracy in SME Retail: Evidence from Ensemble Machine Learning Models"
+    },
+    {
+     "doi": "10.31274/cc-20261111-156",
+     "baslik": "Retail Demand Forecasting and Inventory Reorder Analysis Using Walmart and Instacart Data"
+    },
+    {
+     "doi": "10.20944/preprints202601.0840.v1",
+     "baslik": "Modeling Holiday Effect on Retail Demand Forecasting: A Systematic Review"
+    },
+    {
+     "doi": "10.2139/ssrn.6961318",
+     "baslik": "HIPSF: A Human-Inspired Probabilistic Sparse Forecasting Framework for Post-Launch Retail Demand"
+    },
+    {
+     "doi": "10.1016/s0169-2070(03)00034-7",
+     "baslik": "Commentary on: A new approach to forecasting intermittent demand for service parts inventories"
+    },
+    {
+     "doi": "10.31235/osf.io/4z9be_v1",
+     "baslik": "Machine Learning Approaches for Improving Demand Forecasting Accuracy in Retail Supply Chains"
+    },
+    {
+     "doi": "10.31224/5367",
+     "baslik": "Enhancing Retail Sales Forecasting Using Exponential Factorization Machines: A Data-Driven Approach to Demand Prediction"
+    },
+    {
+     "doi": "10.1002/for.3095",
+     "baslik": "Improving demand forecasting for customers with missing downstream data in intermittent demand supply chains with supervised multivariate clustering"
+    },
+    {
+     "doi": "10.1016/0169-2070(95)00642-7",
+     "baslik": "Forecasting intermittent demand: A comparative evaluation of croston's method. Comment"
+    },
+    {
+     "doi": "10.1002/for.70039",
+     "baslik": "Enhancing Demand Forecasting in Retail: A Comprehensive Analysis of Sales Promotional Effects on the Entire Demand Life Cycle"
+    },
+    {
+     "doi": "10.1007/978-0-85729-039-7_1",
+     "baslik": "Intermittent Demand: Estimation and Statistical Properties"
+    },
+    {
+     "doi": "10.1002/9781119135289.ch10",
+     "baslik": "Judgement, Bias, and Mean Square Error"
+    },
+    {
+     "doi": "10.1108/s1477-407020160000011004",
+     "baslik": "A Comparative Evaluation of Intermittent Demand Forecasting with Updated Smoothing Constants"
+    }
+   ]
+  },
+  {
+   "sorgu": "zero-inflated count demand",
+   "toplam": 366480,
+   "incelenen": 50,
+   "tur": {
+    "posted-content": 6,
+    "dataset": 7,
+    "other": 1,
+    "peer-review": 11,
+    "reference-book": 1,
+    "proceedings-article": 3,
+    "journal-article": 21
+   },
+   "atif_yapilan_eslesme": [],
+   "kayitlar": [
+    {
+     "doi": "10.9734/ajpas/2019/v4i230113",
+     "baslik": "Comparing Zero-inflated Poisson, Zero-inflated Negative Binomial and Zero-inflated Geometric in Count Data with Excess Zero"
+    },
+    {
+     "doi": "10.32614/cran.package.maczic",
+     "baslik": "maczic: Mediation Analysis for Count and Zero-Inflated Count Data"
+    },
+    {
+     "doi": "10.32614/cran.package.bizicount",
+     "baslik": "bizicount: Bivariate Zero-Inflated Count Models Using Copulas"
+    },
+    {
+     "doi": "10.1002/bimj.202100343",
+     "baslik": "On the equivalence of one‐inflated zero‐truncated and zero‐truncated one‐inflated count data likelihoods"
+    },
+    {
+     "doi": "10.32614/cran.package.zic",
+     "baslik": "zic: Bayesian Inference for Zero-Inflated Count Models"
+    },
+    {
+     "doi": "10.1002/9781118445112.stat07821.pub2",
+     "baslik": "Zero‐Inflated Count Time Series"
+    },
+    {
+     "doi": "10.1186/s40488-021-00121-4",
+     "baslik": "A comparison of zero-inflated and hurdle models for modeling zero-inflated count data"
+    },
+    {
+     "doi": "10.1037/e630052010-001",
+     "baslik": "IRT-ZIP Modeling for Multivariate Zero-Inflated Count Data"
+    },
+    {
+     "doi": "10.1007/s00180-012-0388-z",
+     "baslik": "What belongs where? Variable selection for zero-inflated count models with an application to the demand for health care"
+    },
+    {
+     "doi": "10.2139/ssrn.5143545",
+     "baslik": "Inventory Management of Perishables Under Zero-Inflated Poisson Demand"
+    },
+    {
+     "doi": "10.22541/au.165004022.25566263/v1",
+     "baslik": "Zero-inflated count distributions for capture-mark-reencounter data"
+    },
+    {
+     "doi": "10.3102/ip.22.1881347",
+     "baslik": "Multilevel Modeling in Single-Case Studies With Zero-Inflated Count Data (Poster 10)"
+    },
+    {
+     "doi": "10.32614/cran.package.zim4rv",
+     "baslik": "ZIM4rv: Gene‐based Association Tests of Zero‐inflated Count Phenotype for Rare Variants"
+    },
+    {
+     "doi": "10.3934/math.20231183",
+     "baslik": "A novel approach for zero-inflated count regression model: Zero-inflated Poisson generalized-Lindley linear model with applications"
+    },
+    {
+     "doi": "10.48072/2525-7579.roge.2026.6057",
+     "baslik": "Spare Parts Inventory for Rare-Demand Items Using Zero-Inflated Poisson and Zero-Inflated Negative Binomial Models"
+    },
+    {
+     "doi": "10.32614/cran.package.zim",
+     "baslik": "ZIM: Zero-Inflated Models for Count Time Series with Excess Zeros"
+    },
+    {
+     "doi": "10.14416/j.appsci.2022.01.003",
+     "baslik": "Zero Inflated and Zero Truncated Negative Binomial Weighted Garima Distributions for Modeling Count Data"
+    },
+    {
+     "doi": "10.1002/wics.1541",
+     "baslik": "<scp>Zero‐inflated</scp>\n                    modeling part I: Traditional\n                    <scp>zero‐inflated</scp>\n                    count regression models, their applications, and computational tools"
+    },
+    {
+     "doi": "10.7287/peerj-cs.298v0.1/reviews/2",
+     "baslik": "Peer Review #2 of \"Managing slow-moving item: a zero-inflated truncated normal approach for modeling demand (v0.1)\""
+    },
+    {
+     "doi": "10.7287/peerj-cs.298v0.1/reviews/3",
+     "baslik": "Peer Review #3 of \"Managing slow-moving item: a zero-inflated truncated normal approach for modeling demand (v0.1)\""
+    },
+    {
+     "doi": "10.32614/cran.package.countts",
+     "baslik": "countts: Thomson Sampling for Zero-Inflated Count Outcomes"
+    },
+    {
+     "doi": "10.7287/peerj.4600v0.3/reviews/1",
+     "baslik": "Peer Review #1 of \"GMPR: A robust normalization method for zero-inflated count data with application to microbiome sequencing data (v0.3)\""
+    },
+    {
+     "doi": "10.7287/peerj.4600v0.1/reviews/1",
+     "baslik": "Peer Review #1 of \"GMPR: A robust normalization method for zero-inflated count data with application to microbiome sequencing data (v0.1)\""
+    },
+    {
+     "doi": "10.4135/9781526440532",
+     "baslik": "Growth Curve Models for Zero-Inflated Count Data: An Application to Sexual Risk Behavior"
+    },
+    {
+     "doi": "10.7287/peerj.4600v0.1/reviews/2",
+     "baslik": "Peer Review #2 of \"GMPR: A robust normalization method for zero-inflated count data with application to microbiome sequencing data (v0.1)\""
+    },
+    {
+     "doi": "10.7287/peerj.4600v0.2/reviews/2",
+     "baslik": "Peer Review #2 of \"GMPR: A robust normalization method for zero-inflated count data with application to microbiome sequencing data (v0.2)\""
+    },
+    {
+     "doi": "10.7287/peerj-cs.298v0.2/reviews/2",
+     "baslik": "Peer Review #2 of \"Managing slow-moving item: a zero-inflated truncated normal approach for modeling demand (v0.2)\""
+    },
+    {
+     "doi": "10.7287/peerj-cs.298v0.2/reviews/3",
+     "baslik": "Peer Review #3 of \"Managing slow-moving item: a zero-inflated truncated normal approach for modeling demand (v0.2)\""
+    },
+    {
+     "doi": "10.2139/ssrn.2422442",
+     "baslik": "A Dynamic Hurdle Model for Zero-Inflated Count Data: With an Application to Health Care Utilization"
+    },
+    {
+     "doi": "10.7287/peerj.4600v0.2/reviews/1",
+     "baslik": "Peer Review #1 of \"GMPR: A robust normalization method for zero-inflated count data with application to microbiome sequencing data (v0.2)\""
+    },
+    {
+     "doi": "10.3102/1881347",
+     "baslik": "Multilevel Modeling in Single-Case Studies With Zero-Inflated Count Data (Poster 10)"
+    },
+    {
+     "doi": "10.1002/env.2847",
+     "baslik": "Estimation and selection for spatial zero‐inflated count models"
+    },
+    {
+     "doi": "10.1111/j.2044-8317.2011.02031.x",
+     "baslik": "The analysis of zero‐inflated count data: Beyond zero‐inflated Poisson regression."
+    },
+    {
+     "doi": "10.21203/rs.3.rs-11247897/v1",
+     "baslik": "A Systematic Review of Zero-Inflated Count Time Series Models: Techniques, Developments, Challenges and Future Directions"
+    },
+    {
+     "doi": "10.21203/rs.3.rs-7194555/v1",
+     "baslik": "Joint Modeling of Zero-Inflated Longitudinal Count Data and Survival Outcomes with Cure Fraction"
+    },
+    {
+     "doi": "10.1109/access.2020.3037213",
+     "baslik": "Odds Ratio Estimation for Small Count in Zero-Inflated Poisson"
+    },
+    {
+     "doi": "10.1016/j.proenv.2011.07.049",
+     "baslik": "Generalized Estimating Equations for Zero-Inflated Spatial Count Data"
+    },
+    {
+     "doi": "10.52396/justc-2025-0016",
+     "baslik": "Subgroup analysis for zero-inflated count panel data"
+    },
+    {
+     "doi": "10.7287/peerj-cs.298v0.1/reviews/1",
+     "baslik": "Peer Review #1 of \"Managing slow-moving item: a zero-inflated truncated normal approach for modeling demand (v0.1)\""
+    },
+    {
+     "doi": "10.7287/peerj-cs.298v0.2/reviews/1",
+     "baslik": "Peer Review #1 of \"Managing slow-moving item: a zero-inflated truncated normal approach for modeling demand (v0.2)\""
+    },
+    {
+     "doi": "10.3390/computers15080532",
+     "baslik": "A Machine Learning Approach to Latent Structure Learning for Zero-Inflated Patent Keyword Count Data"
+    },
+    {
+     "doi": "10.1016/j.mbs.2010.01.004",
+     "baslik": "Bayesian semiparametric zero-inflated Poisson model for longitudinal count data"
+    },
+    {
+     "doi": "10.21203/rs.3.rs-11381825/v1",
+     "baslik": "Sparse Poisson Log Normal Model for Zero-Inflated Multivariate Count Data"
+    },
+    {
+     "doi": "10.1097/hp.0000000000000291",
+     "baslik": "Simultaneous Source Detection and Analysis Using a Zero-inflated Count Rate Model"
+    },
+    {
+     "doi": "10.1080/13698249.2015.1059564",
+     "baslik": "Forecasting Civil Conflict with Zero-Inflated Count Models"
+    },
+    {
+     "doi": "10.1002/sim.8475",
+     "baslik": "A robust Bayesian mixed effects approach for zero inflated and highly skewed longitudinal count data emanating from the zero inflated discrete Weibull distribution"
+    },
+    {
+     "doi": "10.3390/appliedmath6070104",
+     "baslik": "Improved Confidence Interval Estimation for Zero-Inflated Count Data Using Transformed Two-Part Bootstrap"
+    },
+    {
+     "doi": "10.1002/hec.2844",
+     "baslik": "CONSISTENT ESTIMATION OF ZERO‐INFLATED COUNT MODELS"
+    },
+    {
+     "doi": "10.35629/0743-11101113",
+     "baslik": "Zero-Inflated Log-Linear Models: A Comparative Analysis of Prediction Accuracy with Other Zero-Inflated Count Models"
+    },
+    {
+     "doi": "10.2139/ssrn.2005793",
+     "baslik": "Modelling Zero-Inflated Count Data When Exposure Varies: With an Application to Sick Leave"
+    }
+   ]
+  },
+  {
+   "sorgu": "empirical Bayes demand pooling retail",
+   "toplam": 568741,
+   "incelenen": 50,
+   "tur": {
+    "report": 4,
+    "posted-content": 6,
+    "dataset": 2,
+    "peer-review": 1,
+    "book-chapter": 19,
+    "book": 2,
+    "journal-article": 16
+   },
+   "atif_yapilan_eslesme": [],
+   "kayitlar": [
+    {
+     "doi": "10.2139/ssrn.7682034",
+     "baslik": "Demand Shocks and Recession Nowcasting: Empirical Evidence from U.S. Retail Demand"
+    },
+    {
+     "doi": "10.1016/0026-2714(75)90169-9",
+     "baslik": "Pooling life-test data by means of the Empirical Bayes method"
+    },
+    {
+     "doi": "10.1109/tr.1975.5215322",
+     "baslik": "Pooling Life-Test Data by Means of the Empirical Bayes Method"
+    },
+    {
+     "doi": "10.4324/9781351140645-6",
+     "baslik": "Bayes and empirical Bayes interval estimation"
+    },
+    {
+     "doi": "10.2139/ssrn.4490516",
+     "baslik": "Pooling and Boosting for Demand Prediction in Retail: A Transfer Learning Approach"
+    },
+    {
+     "doi": "10.4324/9781351140645-1",
+     "baslik": "Introduction to Bayes and empirical Bayes methods"
+    },
+    {
+     "doi": "10.1016/b978-0-443-18937-1.00007-3",
+     "baslik": "Some empirical laws of ride-pooling services"
+    },
+    {
+     "doi": "10.4324/9781351140645-3",
+     "baslik": "Empirical Bayes point estimation"
+    },
+    {
+     "doi": "10.4324/9781351140645-7",
+     "baslik": "Alternatives to empirical Bayes"
+    },
+    {
+     "doi": "10.1017/9781009275354.004",
+     "baslik": "Parametric Empirical Bayes Methods"
+    },
+    {
+     "doi": "10.1017/9781009275354.003",
+     "baslik": "The Empirical Bayes Paradigm"
+    },
+    {
+     "doi": "10.1017/9781009275354.005",
+     "baslik": "Nonparametric Empirical Bayes Methods"
+    },
+    {
+     "doi": "10.4324/9781351140645-4",
+     "baslik": "Empirical Bayes point estimation: vector parameters"
+    },
+    {
+     "doi": "10.1017/9781009275354.012",
+     "baslik": "Inference for Empirical Bayes Procedures"
+    },
+    {
+     "doi": "10.1017/9781009275354.009",
+     "baslik": "Empirical Bayes Methods for Survival Analysis"
+    },
+    {
+     "doi": "10.2139/ssrn.4053920",
+     "baslik": "Consumer Food Demand Shifts in the COVID-19 Pandemic: An Empirical Study Based on Retail Sales Data"
+    },
+    {
+     "doi": "10.1201/9781420057669.ch3",
+     "baslik": "The empirical Bayes approach"
+    },
+    {
+     "doi": "10.1002/2013wr015079",
+     "baslik": "Predicting hydrologic response through a hierarchical catchment knowledgebase: A Bayes empirical Bayes approach"
+    },
+    {
+     "doi": "10.5194/gmd-2016-20-rc1",
+     "baslik": "Review of \"Empirical Bayes approach...\""
+    },
+    {
+     "doi": "10.1017/cbo9780511761362.002",
+     "baslik": "Empirical Bayes and the James—Stein Estimator"
+    },
+    {
+     "doi": "10.21236/ada391935",
+     "baslik": "Simultaneous Inference, and Ranking Selection Procedure: Bayes and Empirical Bayes Approach"
+    },
+    {
+     "doi": "10.21236/ada170039",
+     "baslik": "A Note on Bayes Empirical Bayes Estimation by Means of Dirichlet Processes."
+    },
+    {
+     "doi": "10.21236/ada174159",
+     "baslik": "On Bayes and Empirical Bayes Procedures for Selection Problems"
+    },
+    {
+     "doi": "10.1214/18-sts674",
+     "baslik": "Bayes, Oracle Bayes and Empirical Bayes"
+    },
+    {
+     "doi": "10.1007/978-1-4613-0141-7_7",
+     "baslik": "Bayes and Empirical Bayes Procedures for Selecting Good Populations From a Translated Exponential Family"
+    },
+    {
+     "doi": "10.1214/19-sts705",
+     "baslik": "Comment: Bayes, Oracle Bayes, and Empirical Bayes"
+    },
+    {
+     "doi": "10.1214/19-sts674rej",
+     "baslik": "Rejoinder: Bayes, Oracle Bayes, and Empirical Bayes"
+    },
+    {
+     "doi": "10.2139/ssrn.4849663",
+     "baslik": "Assessing the Role of Ride-Pooling in Urban Transportation Systems Using a Large-Scale Integrated Supply and Demand Model - Investigations Based on Empirical Data from Europe's Largest Ride-Pooling Service"
+    },
+    {
+     "doi": "10.2139/ssrn.6848598",
+     "baslik": "Price Rigidity and the Limits of Within Estimators for SKU-Level Demand Elasticity: An Empirical Bayes Approach Using Between-Estimators in Automotive Spare Parts Markets"
+    },
+    {
+     "doi": "10.1093/forestscience/31.4.975",
+     "baslik": "The Use of Bayes/Empirical Bayes Estimation in Individual Tree Volume Equation Development"
+    },
+    {
+     "doi": "10.1214/19-sts704",
+     "baslik": "Comment: Bayes, Oracle Bayes, and Empirical Bayes"
+    },
+    {
+     "doi": "10.1007/978-1-4613-0141-7_4",
+     "baslik": "Semiparametric Empirical Bayes Estimation in Linear Models"
+    },
+    {
+     "doi": "10.1201/9781351071666",
+     "baslik": "Empirical Bayes Methods with Applications"
+    },
+    {
+     "doi": "10.1214/19-sts707",
+     "baslik": "Comment: Bayes, Oracle Bayes and Empirical Bayes"
+    },
+    {
+     "doi": "10.1007/978-1-4613-0141-7_6",
+     "baslik": "Bayes and Empirical Bayes Estimates of Survival and Hazard Functions of a Class of Distributions"
+    },
+    {
+     "doi": "10.1016/j.jempfin.2018.12.001",
+     "baslik": "The demand effect of yield-chasing retail investors: Evidence from the Chinese enterprise bond market"
+    },
+    {
+     "doi": "10.1201/ebk1420070170-21",
+     "baslik": "Bayes and Empirical Bayes Methods for Spotted Microarray Data Analysis"
+    },
+    {
+     "doi": "10.2307/2284711",
+     "baslik": "Limiting the Risk of Bayes and Empirical Bayes Estimators--Part II: The Empirical Bayes Case"
+    },
+    {
+     "doi": "10.1080/07474949908836434",
+     "baslik": "An empirical bayes adaptive price search"
+    },
+    {
+     "doi": "10.4324/9781351140645",
+     "baslik": "Empirical Bayes Methods"
+    },
+    {
+     "doi": "10.3386/w33091",
+     "baslik": "Empirical Bayes Methods in Labor Economics"
+    },
+    {
+     "doi": "10.1016/0026-2714(92)90321-b",
+     "baslik": "Modelling by Bayes empirical Bayes and data analysis"
+    },
+    {
+     "doi": "10.1080/01621459.1972.10481215",
+     "baslik": "Limiting the Risk of Bayes and Empirical Bayes Estimators—Part II: The Empirical Bayes Case"
+    },
+    {
+     "doi": "10.1109/tsmca.2007.914761",
+     "baslik": "Error-Pooling Empirical Bayes Model for Enhanced Statistical Discovery of Differential Expression in Microarray Data"
+    },
+    {
+     "doi": "10.32614/cran.package.geobayes",
+     "baslik": "geoBayes: Analysis of Geostatistical Data using Bayes and Empirical Bayes Methods"
+    },
+    {
+     "doi": "10.32614/cran.package.ebrank",
+     "baslik": "EBrank: Empirical Bayes Ranking"
+    },
+    {
+     "doi": "10.2139/ssrn.4821143",
+     "baslik": "Spatial Demand Prediction of On-Demand Ride-Pooling Based on Origin-Destination-Regressions"
+    },
+    {
+     "doi": "10.1201/9781420057669.ch2",
+     "baslik": "The Bayes approach"
+    },
+    {
+     "doi": "10.1198/tech.2001.s608",
+     "baslik": "Bayes and Empirical Bayes Methods for Data Analysis"
+    },
+    {
+     "doi": "10.4324/9781315605937-6",
+     "baslik": "Exploring retail demand"
+    }
+   ]
+  },
+  {
+   "sorgu": "forecast accuracy inventory performance",
+   "toplam": 2625497,
+   "incelenen": 50,
+   "tur": {
+    "report": 2,
+    "posted-content": 5,
+    "component": 1,
+    "other": 2,
+    "book-chapter": 19,
+    "book": 1,
+    "proceedings-article": 3,
+    "journal-article": 17
+   },
+   "atif_yapilan_eslesme": [
+    "theodorou25"
+   ],
+   "kayitlar": [
+    {
+     "doi": "10.26481/umamer.2002005",
+     "baslik": "Forecast accuracy, information technologies and the performance of inventory policies under multi-level rolling schedule environments"
+    },
+    {
+     "doi": "10.1016/j.ijpe.2005.10.003",
+     "baslik": "Demand forecast accuracy and performance of inventory policies under multi-level rolling schedule environments"
+    },
+    {
+     "doi": "10.1109/mpcon66082.2025.11251491",
+     "baslik": "Deep Learning Approaches for Strengthening Inventory Control and Forecast Accuracy"
+    },
+    {
+     "doi": "10.1016/j.ejor.2024.12.033",
+     "baslik": "Forecast accuracy and inventory performance: Insights on their relationship from the M5 competition data"
+    },
+    {
+     "doi": "10.17261/pressacademia.2019.1012",
+     "baslik": "How does inventory management affect analyst forecast accuracy"
+    },
+    {
+     "doi": "10.3386/w24776",
+     "baslik": "Firm Performance and Macro Forecast Accuracy"
+    },
+    {
+     "doi": "10.65112/tcmis.10103",
+     "baslik": "From forecast accuracy to inventory performance: Assessing machine-learning models for intermittent export demand"
+    },
+    {
+     "doi": "10.65112/tcmis.100103",
+     "baslik": "From forecast accuracy to inventory performance: Assessing machine-learning models for intermittent export demand"
+    },
+    {
+     "doi": "10.22271/27084515.2024.v5.i2i.91618",
+     "baslik": "Beyond forecast accuracy: Human–AI decision-making, organisational accountability and operational performance in retail inventory management"
+    },
+    {
+     "doi": "10.1007/978-3-8349-3937-1_4",
+     "baslik": "Impact of forecast effort and investment advice on accuracy"
+    },
+    {
+     "doi": "10.1007/978-3-658-05634-6_2",
+     "baslik": "Analysts’ general forecast effort as determinant of earnings forecast accuracy"
+    },
+    {
+     "doi": "10.56403/bejam.v4i3.436",
+     "baslik": "A Conceptual Framework: The Effect of Digital Integration on Inventory Performance Through Supply Chain Visibility and Demand Forecast Accuracy in Indonesian FMCG Firms"
+    },
+    {
+     "doi": "10.1109/icscds65426.2025.11167630",
+     "baslik": "Enhancing Inventory Forecast Accuracy in Retail using Ensemble Machine Learning Models"
+    },
+    {
+     "doi": "10.1016/j.ijforecast.2010.08.003",
+     "baslik": "Forecast errors and inventory performance under forecast information sharing"
+    },
+    {
+     "doi": "10.2139/ssrn.2804988",
+     "baslik": "Demand Forecast and Inventory Planning"
+    },
+    {
+     "doi": "10.2139/ssrn.4607564",
+     "baslik": "Impact of Short-Term Wind Forecast Accuracy on the Performance of Decarbonising Wholesale Electricity Markets"
+    },
+    {
+     "doi": "10.1007/978-3-8349-3937-1",
+     "baslik": "Determinants of Earnings Forecast Error, Earnings Forecast Revision and Earnings Forecast Accuracy"
+    },
+    {
+     "doi": "10.1287/mnsc.36.4.490",
+     "baslik": "Evaluating Forecast Performance in an Inventory Control System"
+    },
+    {
+     "doi": "10.1016/0169-2070(91)90042-t",
+     "baslik": "Evaluating forecast performance in an inventory control system"
+    },
+    {
+     "doi": "10.4324/9780080478449-12",
+     "baslik": "Inventory checking"
+    },
+    {
+     "doi": "10.69645/snew9655",
+     "baslik": "Performance metrics and measuring forecast accuracy and bias"
+    },
+    {
+     "doi": "10.1007/978-3-8349-3937-1_2",
+     "baslik": "Determinants of earnings forecast errors"
+    },
+    {
+     "doi": "10.2139/ssrn.6123635",
+     "baslik": "Generative AI and the Decoupling of Forecast Accuracy from Forecast Authority"
+    },
+    {
+     "doi": "10.1007/0-387-25663-6_1",
+     "baslik": "Inventory and Supply Chain Models with Forecast Updates"
+    },
+    {
+     "doi": "10.1007/978-3-8349-3937-1_1",
+     "baslik": "Introduction"
+    },
+    {
+     "doi": "10.1093/acprof:oso/9780195057720.003.0008",
+     "baslik": "New Methods for Using Monthly Data to Improve Forecast Accuracy"
+    },
+    {
+     "doi": "10.1007/978-3-658-05634-6_3",
+     "baslik": "Analysts’ issuance of supplementary forecasts as determinant of earnings forecast accuracy"
+    },
+    {
+     "doi": "10.30574/ijsra.2026.18.3.0574",
+     "baslik": "Forecast accuracy as a driver of excess inventory reduction in ERP-centric supply networks"
+    },
+    {
+     "doi": "10.1007/978-3-8349-3937-1_3",
+     "baslik": "Using forecast errors to explain revisions"
+    },
+    {
+     "doi": "10.2139/ssrn.2891328",
+     "baslik": "Does Greater Disclosure of Information on CSR Performance Improve Analystss Forecast Accuracy?"
+    },
+    {
+     "doi": "10.4324/9780080478449-8",
+     "baslik": "Responsibilities for accuracy"
+    },
+    {
+     "doi": "10.1007/978-3-8349-3937-1_5",
+     "baslik": "Concluding remarks"
+    },
+    {
+     "doi": "10.1002/9781119196549.ch8",
+     "baslik": "Inventory Record Accuracy in a Lean Environment"
+    },
+    {
+     "doi": "10.1016/b978-0-7506-5900-0.50011-4",
+     "baslik": "Inventory checking"
+    },
+    {
+     "doi": "10.1002/9781119196549.ch3",
+     "baslik": "The Three‐Phase Approach to Inventory Record Accuracy"
+    },
+    {
+     "doi": "10.1201/9780849383274.ch5",
+     "baslik": "Inventory Record Accuracy"
+    },
+    {
+     "doi": "10.4324/9780080478449-13",
+     "baslik": "Accuracy through information technology"
+    },
+    {
+     "doi": "10.1145/3400934.3400992",
+     "baslik": "Multi-Criteria Inventory Classification Models Selection Based on Inventory Performance With Consideration of Forecast Downsides"
+    },
+    {
+     "doi": "10.1080/00207543.2022.2153941",
+     "baslik": "Feature-based intermittent demand forecast combinations: accuracy and inventory implications"
+    },
+    {
+     "doi": "10.1016/j.frl.2025.109113",
+     "baslik": "Analyst forecast accuracy and corporate financial performance"
+    },
+    {
+     "doi": "10.46799/ijssr.v5i9.1307",
+     "baslik": "Impact of Production Planning, Inventory Management, and Demand Forecast Accuracy on Operational Performance: The Moderating Role of Sustainability-Oriented Green Supply Chain Management Among Retail Smes in Jakarta"
+    },
+    {
+     "doi": "10.4324/9780080478449-14",
+     "baslik": "Record accuracy as a project"
+    },
+    {
+     "doi": "10.4324/9780080478449-15",
+     "baslik": "The management of record accuracy"
+    },
+    {
+     "doi": "10.4324/9780080478449-4",
+     "baslik": "The importance of record accuracy"
+    },
+    {
+     "doi": "10.21236/ada422720",
+     "baslik": "Forecast Model Uncertainty; MM5 Accuracy Over Utah"
+    },
+    {
+     "doi": "10.1111/j.1467-6281.2011.00343.x",
+     "baslik": "Do Publicly Signalled Earnings Management Incentives Affect Analyst Forecast Accuracy?"
+    },
+    {
+     "doi": "10.2139/ssrn.3708923",
+     "baslik": "Macroeconomic Uncertainty and Management Forecast Accuracy"
+    },
+    {
+     "doi": "10.2139/ssrn.3257433",
+     "baslik": "Rational Inattention and Analyst Forecast Accuracy"
+    },
+    {
+     "doi": "10.1016/b978-0-7506-5900-0.50007-2",
+     "baslik": "Responsibilities for accuracy"
+    },
+    {
+     "doi": "10.1007/978-3-658-08809-5_4",
+     "baslik": "Forecasting Lumpy Demand: Statistical Accuracy and Inventory Control Performance"
+    }
+   ]
+  },
+  {
+   "sorgu": "probabilistic forecast evaluation count data",
+   "toplam": 4963336,
+   "incelenen": 50,
+   "tur": {
+    "report": 1,
+    "posted-content": 16,
+    "dataset": 3,
+    "other": 1,
+    "book-chapter": 8,
+    "proceedings-article": 6,
+    "journal-article": 15
+   },
+   "atif_yapilan_eslesme": [],
+   "kayitlar": [
+    {
+     "doi": "10.1002/essoar.10512603.1",
+     "baslik": "Probabilistic Intraday Wastewater Treatment Plant Inflow Forecast Utilizing Rain Forecast Data and Sewer Network Sensor Data"
+    },
+    {
+     "doi": "10.5194/hessd-6-1843-2009",
+     "baslik": "Evaluation of a probabilistic hydrometeorological forecast system"
+    },
+    {
+     "doi": "10.1029/2022wr033826",
+     "baslik": "Probabilistic Intraday Wastewater Treatment Plant Inflow Forecast Utilizing Rain Forecast Data and Sewer Network Sensor Data"
+    },
+    {
+     "doi": "10.3390/meteorology1030016",
+     "baslik": "Probabilistic Evaluation of the Multicategory Seasonal Precipitation Re-Forecast"
+    },
+    {
+     "doi": "10.1145/3748777.3748789",
+     "baslik": "Multivariate Tests for Point and Probabilistic Forecasts, with an Application to Spatio-temporal Weather Forecast Evaluation"
+    },
+    {
+     "doi": "10.1201/b12123-13",
+     "baslik": "Evaluation of Instruments"
+    },
+    {
+     "doi": "10.1101/211938",
+     "baslik": "Probabilistic Count Matrix Factorization for Single Cell Expression Data Analysis"
+    },
+    {
+     "doi": "10.1016/j.egyai.2021.100058",
+     "baslik": "An introduction to multivariate probabilistic forecast evaluation"
+    },
+    {
+     "doi": "10.5194/hess-13-1031-2009",
+     "baslik": "Evaluation of a probabilistic hydrometeorological forecast system"
+    },
+    {
+     "doi": "10.1109/icdmw60847.2023.00084",
+     "baslik": "Probabilistic Forecast Reconciliation with Kullback-Leibler Divergence Regularization"
+    },
+    {
+     "doi": "10.1016/j.probengmech.2026.103923",
+     "baslik": "Crossing-consistent peak count"
+    },
+    {
+     "doi": "10.1017/cbo9781139013567.008",
+     "baslik": "Model Evaluation and Testing"
+    },
+    {
+     "doi": "10.1109/wsc40007.2019.9004876",
+     "baslik": "Simulation Based Forecast Data Generation and Evaluation of Forecast Error Measures"
+    },
+    {
+     "doi": "10.1109/rtucon67996.2025.11415056",
+     "baslik": "Probabilistic Evaluation of Solar and Wind Power Plants Joint Operation for AES on Data of Weather Conditions Forecast"
+    },
+    {
+     "doi": "10.32614/cran.package.countfitter",
+     "baslik": "countfitteR: Comprehensive Automatized Evaluation of Distribution Models for Count Data"
+    },
+    {
+     "doi": "10.5194/egusphere-egu21-15745",
+     "baslik": "Probabilistic Streamflow forecast for Narmada River Basin"
+    },
+    {
+     "doi": "10.3329/jsr.v56i1.63947",
+     "baslik": "Probabilistic canonical correlation analysis for sparse count data"
+    },
+    {
+     "doi": "10.1175/2008waf2222130.1",
+     "baslik": "Evaluation of Probabilistic Medium-Range Temperature Forecasts from the North American Ensemble Forecast System"
+    },
+    {
+     "doi": "10.4054/mpidr-wp-2024-016",
+     "baslik": "Calibrating probabilistic forecast paths on past forecast errors: an application to the Finnish Total Fertility Rate"
+    },
+    {
+     "doi": "10.1007/s11116-017-9782-2",
+     "baslik": "Trip misreporting forecast using count data model in a GPS enhanced travel survey"
+    },
+    {
+     "doi": "10.5194/npg-2019-55",
+     "baslik": "Order of operation for multi-stage post-processing of ensemble wind forecast trajectories"
+    },
+    {
+     "doi": "10.1002/9781394319060.ch1",
+     "baslik": "Forecast–Decision Theory"
+    },
+    {
+     "doi": "10.31235/osf.io/zjca2_v2",
+     "baslik": "A Regionally-Based Probabilistic Forecast of Human Extinction"
+    },
+    {
+     "doi": "10.1109/pmaps.2006.360292",
+     "baslik": "Adaptive Combination of Forecast With Application to Wind Energy Forecast"
+    },
+    {
+     "doi": "10.3390/atmos12121630",
+     "baslik": "Multi-Scale Object-Based Probabilistic Forecast Evaluation of WRF-Based CAM Ensemble Configurations"
+    },
+    {
+     "doi": "10.1016/j.probengmech.2016.02.002",
+     "baslik": "Reducing forecast uncertainty by using observations in geotechnical engineering"
+    },
+    {
+     "doi": "10.1007/978-0-85729-410-4_493",
+     "baslik": "Flood Forecast Model and Probabilistic Analysis"
+    },
+    {
+     "doi": "10.2139/ssrn.4843614",
+     "baslik": "Hybrid Model For  Intra-Day Probabilistic Pv Power Forecast"
+    },
+    {
+     "doi": "10.2166/nh.2019.028",
+     "baslik": "Data transformation models utilized in Bayesian probabilistic forecast considering inflow forecasts"
+    },
+    {
+     "doi": "10.5194/egusphere-egu23-14493",
+     "baslik": "Interpretable probabilistic forecast of extreme heat waves"
+    },
+    {
+     "doi": "10.20944/preprints202610.1212.v1",
+     "baslik": "Probabilistic Residual Correction of Issued Photovoltaic Forecast Profiles Without Plant Metadata"
+    },
+    {
+     "doi": "10.32614/cran.package.profoc",
+     "baslik": "profoc: Probabilistic Forecast Combination Using CRPS Learning"
+    },
+    {
+     "doi": "10.1017/cbo9781139236065.002",
+     "baslik": "Varieties of Count Data"
+    },
+    {
+     "doi": "10.5772/intechopen.75845",
+     "baslik": "Principles of Probabilistic Seismic Hazard Assessment (PSHA) and Site Effect Evaluation and Its Application for the Volcanic Environment in El Salvador"
+    },
+    {
+     "doi": "10.5220/0010560703070320",
+     "baslik": "Systematic Evaluation of Probabilistic k-Anonymity for Privacy Preserving Micro-data Publishing and Analysis"
+    },
+    {
+     "doi": "10.5194/egusphere-egu26-16621",
+     "baslik": "Performance Evaluation of a UAM-Specific High-Resolution Forecast-Data Assimilation Cycling System"
+    },
+    {
+     "doi": "10.5194/egusphere-egu24-12255",
+     "baslik": "Contrail forecast and nowcast evaluation using satellite-based LIDAR data"
+    },
+    {
+     "doi": "10.22541/au.160552829.92393901/v1",
+     "baslik": "Grid-scale evaluation of five reference evapotranspiration methods based on the climate forecast system reanalysis data"
+    },
+    {
+     "doi": "10.1007/s40953-022-00305-y",
+     "baslik": "Probabilistic Frontier Regression Models for Count Type Output Data"
+    },
+    {
+     "doi": "10.64898/2026.05.09.723882",
+     "baslik": "PARiS: Probabilistic Assignment and Repartitioning of isomiR Sequences: A data-driven method for denoising isomiR read count data"
+    },
+    {
+     "doi": "10.1201/9781003109815-10",
+     "baslik": "Evaluation of Instruments"
+    },
+    {
+     "doi": "10.1017/cbo9781139236065.009",
+     "baslik": "Modeling Underdispersed Count Data – Generalized Poisson"
+    },
+    {
+     "doi": "10.18520/cs/v117/i7/1167-1173",
+     "baslik": "Probabilistic Analysis of Seismic Data for Earthquake Forecast in North East India and its Vicinity"
+    },
+    {
+     "doi": "10.1007/s10584-015-1430-2",
+     "baslik": "Towards improving the framework for probabilistic forecast evaluation"
+    },
+    {
+     "doi": "10.32614/cran.package.count",
+     "baslik": "COUNT: Functions, Data and Code for Count Data"
+    },
+    {
+     "doi": "10.5194/egusphere-egu24-6480",
+     "baslik": "A full probabilistic approach to landslide forecast"
+    },
+    {
+     "doi": "10.5194/egusphere-2026-6597",
+     "baslik": "A Unified Framework for Deep Learning-Based Ensemble-Free Data Assimilation and Forecast Error Correction"
+    },
+    {
+     "doi": "10.5194/npgd-2-1061-2015",
+     "baslik": "Diagnosing non-Gaussianity of forecast and analysis errors in a convective scale model"
+    },
+    {
+     "doi": "10.1007/s41060-024-00525-w",
+     "baslik": "A probabilistic spatio-temporal neural network to forecast COVID-19 counts"
+    },
+    {
+     "doi": "10.1201/9781003203971-10",
+     "baslik": "Probabilistic Forecast Verification"
+    }
+   ]
+  },
+  {
+   "sorgu": "data quality information systems",
+   "toplam": 10300069,
+   "incelenen": 50,
+   "tur": {
+    "book-chapter": 18,
+    "proceedings-article": 10,
+    "journal-article": 22
+   },
+   "atif_yapilan_eslesme": [],
+   "kayitlar": [
+    {
+     "doi": "10.1145/2740965",
+     "baslik": "Data Quality Challenges in Cyber-Physical Systems"
+    },
+    {
+     "doi": "10.1016/j.is.2004.01.001",
+     "baslik": "Special issue on data quality in cooperative information systems"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_10",
+     "baslik": "Data Quality Issues in Data Integration Systems"
+    },
+    {
+     "doi": "10.1145/1012453.1012461",
+     "baslik": "A general framework for query answering in data quality-based Cooperative Information Systems"
+    },
+    {
+     "doi": "10.1145/1577840.1577841",
+     "baslik": "Editorial Letter for the Special Issue on Data Quality in Databases and Information Systems"
+    },
+    {
+     "doi": "10.1145/2378016.2378020",
+     "baslik": "Data and Information Quality Issues in Ambient Assisted Living Systems"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_7",
+     "baslik": "Activities for Information Quality"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_1",
+     "baslik": "Introduction to Information Quality"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_13",
+     "baslik": "Information Quality in Healthcare"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_6",
+     "baslik": "Models for Information Quality"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_11",
+     "baslik": "Information Quality in Use"
+    },
+    {
+     "doi": "10.4324/9781315846231-15",
+     "baslik": "Data quality and data exchange standards"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_2",
+     "baslik": "Data Quality Dimensions"
+    },
+    {
+     "doi": "10.1080/10580530.2022.2042628",
+     "baslik": "Data Governance Model To Enhance Data Quality In Financial Institutions"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_12",
+     "baslik": "Methodologies for Information Quality Assessment and Improvement"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_3",
+     "baslik": "Information Quality Dimensions for Maps and Texts"
+    },
+    {
+     "doi": "10.1016/j.is.2003.12.003",
+     "baslik": "Methods for evaluating and creating data quality"
+    },
+    {
+     "doi": "10.4324/9781315703480-23",
+     "baslik": "Criticality of Factors Affecting Data Quality of Accounting Information Systems: How Perceptions of Importance and Performance Can Differ"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_14",
+     "baslik": "Quality of Web Data and Quality of Big Data: Open Problems"
+    },
+    {
+     "doi": "10.48009/2_iis_2021_108-121",
+     "baslik": "BIG DATA ANALYTICS TALENT QUALITY"
+    },
+    {
+     "doi": "10.15208/pieb.2014.04",
+     "baslik": "Data quality and accounting information systems: Actual performance in Albania"
+    },
+    {
+     "doi": "10.1016/s0306-4379(02)00043-1",
+     "baslik": "Improving the quality of data models: empirical validation of a quality management framework"
+    },
+    {
+     "doi": "10.1145/1077501.1077503",
+     "baslik": "Handling data quality in entity resolution"
+    },
+    {
+     "doi": "10.1145/1077501.1077519",
+     "baslik": "Data quality inference"
+    },
+    {
+     "doi": "10.5220/0006941001690181",
+     "baslik": "Guidelines for Health IT Addressing the Quality of Data in EHR Information Systems"
+    },
+    {
+     "doi": "10.5220/0007838602740281",
+     "baslik": "An Extended Data Object-driven Approach to Data Quality Evaluation: Contextual Data Quality Analysis"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_15",
+     "baslik": "Erratum to: Data and Information Quality: Dimensions, Principles and Techniques"
+    },
+    {
+     "doi": "10.1016/j.is.2014.05.005",
+     "baslik": "A framework for data quality aware query systems"
+    },
+    {
+     "doi": "10.1016/0378-7206(80)90035-x",
+     "baslik": "Data quality in information systems"
+    },
+    {
+     "doi": "10.1287/isre.1110.0371",
+     "baslik": "Managing Data Quality Risk in Accounting Information Systems"
+    },
+    {
+     "doi": "10.48009/2_iis_2009_48-57",
+     "baslik": "DATA QUALITY PROBLEMS IN RESPONSIBILITY ACCOUNTING"
+    },
+    {
+     "doi": "10.1007/978-3-319-24106-7_4",
+     "baslik": "Data Quality Issues in Linked Open Data"
+    },
+    {
+     "doi": "10.1201/9780203908419.ch11",
+     "baslik": "Enhancing Data Quality with LIMS"
+    },
+    {
+     "doi": "10.1145/1577840.1577847",
+     "baslik": "Call for Papers Special Issue on Healthcare Information Quality: the Challenges and Opportunities in Healthcare Systems and Services"
+    },
+    {
+     "doi": "10.1145/2744205",
+     "baslik": "A Methodology to Evaluate Important Dimensions of Information Quality in Systems"
+    },
+    {
+     "doi": "10.1145/2378016.2378017",
+     "baslik": "Introduction to the Special Issue on Information Quality"
+    },
+    {
+     "doi": "10.1145/1077501.1077507",
+     "baslik": "Provider issues in quality-constrained data provisioning"
+    },
+    {
+     "doi": "10.1007/978-3-7908-2010-2_25",
+     "baslik": "Analyzing Data Quality Trade-Offs in Data-Redundant Systems"
+    },
+    {
+     "doi": "10.1145/1077501.1077508",
+     "baslik": "Making quality count in biological data sources"
+    },
+    {
+     "doi": "10.1016/j.is.2013.03.001",
+     "baslik": "Introduction to the special issue on data quality"
+    },
+    {
+     "doi": "10.1016/s0306-4379(00)00011-9",
+     "baslik": "Towards quality-oriented data warehouse usage and evolution"
+    },
+    {
+     "doi": "10.1007/978-3-540-79396-0_33",
+     "baslik": "Data and Information Quality Assessment in Information Manufacturing Systems"
+    },
+    {
+     "doi": "10.1016/j.is.2016.04.005",
+     "baslik": "Data generator for evaluating ETL process quality"
+    },
+    {
+     "doi": "10.1080/07399018608965242",
+     "baslik": "Managing for Quality Data Processing"
+    },
+    {
+     "doi": "10.5220/0009472305790587",
+     "baslik": "A Layered Quality Framework for Machine Learning-driven Data and Information Models"
+    },
+    {
+     "doi": "10.1007/978-3-7908-2148-2_19",
+     "baslik": "Measuring Data Quality When Applying Data Swapping and Perturbation"
+    },
+    {
+     "doi": "10.3390/data5020030",
+     "baslik": "Influence of Information Quality via Implemented German RCD Standard in Research Information Systems"
+    },
+    {
+     "doi": "10.5220/0003961602190224",
+     "baslik": "COMBINING SEMANTIC INFORMATION AND INFORMATION QUALITY ON THE ENRICHMENT OF WEB DATA INTEGRATION SYSTEMS"
+    },
+    {
+     "doi": "10.5220/0002903903790382",
+     "baslik": "IMPROVING DATA QUALITY IN DATA WAREHOUSING APPLICATIONS"
+    },
+    {
+     "doi": "10.1016/j.dss.2019.113138",
+     "baslik": "Measuring data quality in information systems research"
+    }
+   ]
+  }
+ ],
+ "sorgularda_bulunan_atif": [
+  "agrawal96",
+  "chehrazi25",
+  "conrad76",
+  "dehoratius08",
+  "mersereau15",
+  "nahmias94",
+  "sachs14",
+  "shabani21",
+  "theodorou25"
+ ],
+ "sorgular_disi_atif": [
+  "aickin96",
+  "anupindi98",
+  "bergmeir18",
+  "besbes13",
+  "conlon13",
+  "corsten03",
+  "croston72",
+  "delone03",
+  "dempster77",
+  "efron79",
+  "field07",
+  "fildes22",
+  "galbraith74",
+  "gneiting07a",
+  "gneiting07b",
+  "huh11",
+  "hyndman06",
+  "jain15",
+  "kang05",
+  "kaplan58",
+  "khouja99",
+  "kolassa16",
+  "lambert92",
+  "lawless87",
+  "matplotlib",
+  "morris83",
+  "mullahy86",
+  "musalem10",
+  "numpy",
+  "pandas",
+  "scipy",
+  "snyder12",
+  "statsmodels",
+  "syntetos05",
+  "syntetos05b",
+  "tobin58",
+  "trapero24",
+  "vanderhaar24",
+  "veri",
+  "wang25",
+  "wang96",
+  "wecker78",
+  "yin26"
+ ]
+}

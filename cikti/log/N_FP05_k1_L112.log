@@ -1,0 +1,5 @@
+analiz/deney.py:48: RuntimeWarning: All-NaN slice encountered
+  S = np.nanmedian(pos, axis=1)
+M4 sure 190.4 phi 2.2134 tur 200 ab 0.0 0.0
+M4R sure 572.2 phi 1.4674 tur 100 ab 0.3164195347571759 0.0
+N_FP05 1 seri 10081 sansur 0.1462 kayip_pay 0.111 sure 809.6 {'M1': (0.031, 0.1536), 'M2': (0.1157, 0.2032), 'M3': (1.6905, 1.7454), 'M5': (0.2371, 0.292), 'M6': (0.0778, 0.1857), 'M4': (0.0301, 0.1283), 'M4R': (-0.0349, 0.1171)}

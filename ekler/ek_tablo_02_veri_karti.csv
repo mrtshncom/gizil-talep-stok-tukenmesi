@@ -1,0 +1,26 @@
+﻿Alan,Değer
+Kaynak,"Smith (2026), Mendeley Data, V1, doi:10.17632/27x8mjm8k4.1 [32]"
+Lisans,CC BY 4.0
+Veri sağlayıcısının tanımı,Dört düzeyli ürün hiyerarşili bir perakende işletmesinden tabakalı örneklem
+Satış dosyası (SHA-256 ilk 16 karakter),retail_sales_ml_apl.csv (da4763939baed1f4)
+Stok dosyası (SHA-256 ilk 16 karakter),retail_inventory_ml_apl.csv (c765678a26c2d024)
+"Satış satırı, iade satırı","125 751, 7 491"
+"Stok aralık kaydı, açık uçlu kayıt","284 755, 22 701"
+Negatif ve sıfır stok kaydı,1 380 ve 13 869
+Dönem,01.06.2025–24.04.2026 (328 gün)
+"Mağaza, stok birimi","40, 2 326"
+"Bölüm, kategori, alt kategori, segment","3, 27, 51, 600"
+Satış kanalı ve mağaza türü,"Tek kanal, tek mağaza türü"
+Satış türü (satır),"Tam fiyat 93 929, promosyon 23 651, indirim 6 818, tasfiye 1 353"
+İade nedeni alanı,Bütün satırlarda boş (125 751 satır)
+"Öteki alanlarda eksik hücre (satış, stok)","0, 0"
+Mağaza-ürün serisi (panel),63 556
+"Etkin pencere: seri, seri-gün, satış birimi","60 968, 9 704 922, 119 980"
+"Örtük sıfır seri-gün (iç, son)","337 938 (299 671, 38 267)"
+Negatif stoklu seri-gün (seri),53 166 (977)
+Stok düşüşü = aynı gün net satış,"%97,3 (77 131 gün)"
+Stok düşüşü = önceki gün net satış,"%4,9 (aynı payda)"
+Örtük sıfır kuralı sonrası eşleşme,"%97,5 (107 425 gün)"
+"İade içeren seri-gün, iadenin satış birimine oranı","7 249, %6,1"
+Kullanım amacı,Gizil talep tahmin yöntemlerinin yeniden sansürleme ile sınanması
+Kullanım sınırı,"Kimlik alanları kodlanmıştır, saatlik zaman damgası ve fiziksel sayım bulunmamaktadır"

@@ -1,0 +1,16 @@
+﻿Kod,Model,Sansür bilgisi,Havuzlama
+M0,Satışı talep sayan,Kullanılmaz,Yok
+M1,Silme,Sansürlü gün silinir,Yok
+M2,Kayan profil ataması,Koşullu atama,Yok
+M3,Seri içi sansürlü Poisson,Seri içi olabilirlik,Yok
+M5,Kaplan-Meier,Çarpım limit tahmini,Yok
+M6,Sansürlü üstel düzeltme,Koşullu güncelleme,Ortak düzeltme katsayısı
+M4,Havuzlu sansürlü (seçim koşullu),Havuzlu olabilirlik,"Mağaza, alt kategori, ortak değişken"
+M4R,"M4, denetimli etiket hatası",Denetimden alınan hata payı a,M4 ile aynı
+M4Z,"M4, sıfır şişkin",Havuzlu olabilirlik,M4 ve bölüm başına sıfır olasılığı
+M4D,"M4, haftalık düzey",Havuzlu olabilirlik,M4 ve hafta etkileri
+M4S,"M4, sansürü yok sayan",Kullanılmaz,M4 ile aynı
+M4H,"M4, hiyerarşisiz",Havuzlu olabilirlik,"Gün, fiyat durumu, ürün yaşı"
+M4K,"M4, hiyerarşisiz ve ortak değişkensiz",Havuzlu olabilirlik,Seri önseli
+TB,Tam bilgili eğitim kıyası,Gerçek eğitim talebi,M4 ile aynı
+TK,Test kâhini,Gerçek test talebi,M4 ile aynı
