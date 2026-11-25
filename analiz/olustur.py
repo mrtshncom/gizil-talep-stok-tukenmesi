@@ -297,16 +297,18 @@ def blok_yaz(b, onceki):
         if onceki not in ('h1', None): bosluk()
         baslik(b[1])
     elif b[0] == 'p':
-        if onceki == 'p' or onceki == 'hip' or onceki == 'madde': bosluk()
+        if onceki in ('p', 'hip', 'madde', 'eq'): bosluk()
         ekle(paragraf(cozumle(' '.join(atifli(m, k) for (m, k, _, _) in b[1] if m))))
     elif b[0] == 'hip':
-        if onceki in ('p', 'madde'): bosluk()
+        if onceki in ('p', 'madde', 'hip', 'eq'): bosluk()
         ekle(paragraf(cozumle(b[1]), i=True, sol=567))
     elif b[0] == 'madde':
-        if onceki in ('p', 'hip'): bosluk()
+        if onceki in ('p', 'hip', 'eq'): bosluk()
         for k, m in enumerate(b[1]):
             ekle(paragraf(f'({k + 1}) ' + cozumle(m), sol=567, asili=340, sonra=60))
     elif b[0] == 'eq':
+        # denklemden önce ve sonra birer boş satır bırakılır
+        if onceki not in ('h1', 'h2', None): bosluk()
         denklem(b[1], b[2])
     elif b[0] == 'table':
         if onceki not in ('h1', 'h2'): bosluk()
@@ -442,6 +444,13 @@ for rid, rel in list(d.part.rels.items()):
         del d.part.rels[rid]
 for _t in d.element.body.iter(qn('w:t')):
     if _t.text and 'Araştırma /Derleme Makalesi' in _t.text: _t.text = _t.text.replace('Araştırma /Derleme Makalesi', 'Araştırma Makalesi')
+# yazı tipi atanmamış bütün metin parçaları (başlık ve öz tablosu) Cambria ile yazılır
+for _r in d.element.body.iter(qn('w:r')):
+    if not ''.join(_x.text or '' for _x in _r.iter(qn('w:t'))).strip(): continue
+    _rp = _r.find(qn('w:rPr'))
+    if _rp is None: _rp = OxmlElement('w:rPr'); _r.insert(0, _rp)
+    if _rp.find(qn('w:rFonts')) is None:
+        _f = OxmlElement('w:rFonts'); _f.set(qn('w:asciiTheme'), 'majorHAnsi'); _f.set(qn('w:hAnsiTheme'), 'majorHAnsi'); _f.set(qn('w:cs'), 'Times New Roman'); _rp.insert(0, _f)
 d.save(CIKIS)
 
 def paket_temizle(yol):
