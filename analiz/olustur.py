@@ -363,7 +363,10 @@ for b in BLOKLAR:
     blok_yaz(b, onceki); onceki = b[0]
 
 # 6. Beyanlar (şablondaki sıra: Teşekkür, Yazar Katkı Oranları, Çıkar Çatışması)
+# Değerlendirme aşamasında Teşekkür, Yazar Katkı Oranları ve Çıkar Çatışması makale metnine konmaz (dergi kontrol
+# listesi 4.7-4.9), bu bilgiler ayrı başlık sayfasında verilir.
 for bas, metin in BEYAN:
+    if bas in ('Teşekkür', 'Yazar Katkı Oranları', 'Çıkar Çatışması'): continue
     bosluk(); baslik(bas); ekle(paragraf(cozumle(metin)))
 
 # 7. Kaynakça (APA, metindeki ilk geçiş sırasıyla numaralı)
